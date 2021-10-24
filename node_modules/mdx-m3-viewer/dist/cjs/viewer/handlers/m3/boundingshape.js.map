@@ -1,0 +1,1 @@
+{"version":3,"file":"boundingshape.js","sourceRoot":"","sources":["../../../../../src/viewer/handlers/m3/boundingshape.ts"],"names":[],"mappings":";;AAEA;;GAEG;AACH,MAAqB,aAAa;IAIhC,YAAY,aAA8B;QACxC,IAAI,CAAC,IAAI,GAAG,aAAa,CAAC,IAAI,CAAC;QAC/B,IAAI,CAAC,MAAM,GAAG,aAAa,CAAC,MAAM,CAAC;QACnC,6CAA6C;QAC7C;;;;;;;;;;;;;UAaE;IACJ,CAAC;CACF;AAvBD,gCAuBC"}

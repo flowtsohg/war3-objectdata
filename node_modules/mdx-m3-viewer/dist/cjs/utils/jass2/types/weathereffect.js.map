@@ -1,0 +1,1 @@
+{"version":3,"file":"weathereffect.js","sourceRoot":"","sources":["../../../../../src/utils/jass2/types/weathereffect.ts"],"names":[],"mappings":";;AAAA,qCAAkC;AAGlC;;GAEG;AACH,MAAqB,iBAAkB,SAAQ,gBAAU;IAKvD,YAAY,SAAmB,EAAE,QAAgB;QAC/C,KAAK,EAAE,CAAC;QAHV,YAAO,GAAG,KAAK,CAAC;QAKd,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;QAC3B,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC3B,CAAC;CACF;AAXD,oCAWC"}

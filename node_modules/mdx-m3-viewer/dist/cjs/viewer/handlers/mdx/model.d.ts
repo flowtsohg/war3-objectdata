@@ -1,0 +1,71 @@
+import Parser from '../../../parsers/mdlx/model';
+import Sequence from './sequence';
+import { HandlerResourceData } from '../../handlerresource';
+import Model from '../../model';
+import TextureAnimation from './textureanimation';
+import Layer from './layer';
+import Material from './material';
+import GeosetAnimation from './geosetanimation';
+import Bone from './bone';
+import Light from './light';
+import Helper from './helper';
+import Attachment from './attachment';
+import ParticleEmitterObject from './particleemitterobject';
+import ParticleEmitter2Object from './particleemitter2object';
+import RibbonEmitterObject from './ribbonemitterobject';
+import Camera from './camera';
+import EventObjectEmitterObject from './eventobjectemitterobject';
+import CollisionShape from './collisionshape';
+import BatchGroup from './batchgroup';
+import EmitterGroup from './emittergroup';
+import GenericObject from './genericobject';
+import { Batch } from './batch';
+import Geoset from './geoset';
+import MdxModelInstance from './modelinstance';
+import MdxTexture from './texture';
+/**
+ * An MDX model.
+ */
+export default class MdxModel extends Model {
+    reforged: boolean;
+    hd: boolean;
+    solverParams: {
+        reforged?: boolean;
+        hd?: boolean;
+    };
+    name: string;
+    sequences: Sequence[];
+    globalSequences: number[];
+    materials: Material[];
+    layers: Layer[];
+    textures: MdxTexture[];
+    textureAnimations: TextureAnimation[];
+    geosets: Geoset[];
+    geosetAnimations: GeosetAnimation[];
+    bones: Bone[];
+    lights: Light[];
+    helpers: Helper[];
+    attachments: Attachment[];
+    pivotPoints: Float32Array[];
+    particleEmitters: ParticleEmitterObject[];
+    particleEmitters2: ParticleEmitter2Object[];
+    ribbonEmitters: RibbonEmitterObject[];
+    cameras: Camera[];
+    eventObjects: EventObjectEmitterObject[];
+    collisionShapes: CollisionShape[];
+    hasLayerAnims: boolean;
+    hasGeosetAnims: boolean;
+    batches: Batch[];
+    genericObjects: GenericObject[];
+    sortedGenericObjects: GenericObject[];
+    hierarchy: number[];
+    opaqueGroups: BatchGroup[];
+    translucentGroups: (BatchGroup | EmitterGroup)[];
+    arrayBuffer: WebGLBuffer | null;
+    elementBuffer: WebGLBuffer | null;
+    skinDataType: number;
+    bytesPerSkinElement: number;
+    constructor(bufferOrParser: ArrayBuffer | string | Parser, resourceData: HandlerResourceData);
+    addInstance(): MdxModelInstance;
+    setupHierarchy(parent: number): void;
+}
