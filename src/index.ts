@@ -1,4 +1,4 @@
-export { ObjectData } from './objectdata';
+export { ObjectData, ModificationFiles } from './objectdata';
 export { Unit, Units } from './generated/units';
 export { Item, Items } from './generated/items';
 export { Destructable, Destructables } from './generated/destructables';
