@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 import War3Map from "mdx-m3-viewer/dist/cjs/parsers/w3x/map";
-import { ObjectData, Units, Items, Destructables, Doodads, Unit } from "../src";
+import { ObjectData, Unit, Units, Items, Destructables, Doodads /*, Abilities, Buffs, Upgrades*/ } from "../src";
 
 const objectData = new ObjectData();
 
@@ -16,6 +16,9 @@ console.log(objectData.units.get('hpea'));
 console.log(objectData.items.get(Items.AlleriasFluteOfAccuracy));
 console.log(objectData.destructables.get(Destructables.AshenvaleCanopyTree));
 console.log(objectData.doodads.get(Doodads.AlonsusChapel));
+// console.log(objectData.abilities.get(Abilities.Blizzard));
+// console.log(objectData.buffs.get(Buffs.Blizzard));
+// console.log(objectData.upgrades.get(Upgrades.FlakCannons));
 
 const paladin = <Unit>objectData.units.copy(Units.Paladin);
 paladin.name = 'Not a Paladin';

@@ -5,7 +5,7 @@ import { existsSync } from 'fs';
 
 (async function() {
   console.log('Starting');
-  const generatorData = await loadData();
+  const generatorData = await loadData('enus');
   const objectData = await objectDataGenerator(generatorData);
 
   if (!existsSync('src/generated')) { await mkdir('src/generated') }

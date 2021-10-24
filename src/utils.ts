@@ -26,6 +26,10 @@ export function war3ToTS(war3Type: string, war3Value: string | number | undefine
       throw Error(`Type mismatch: ${war3Type} ${war3Value} (${typeof war3Value})`);
     }
 
+    if (tsValue === '_' || tsValue === '-') {
+      tsValue = '';
+    }
+
     return tsValue;
   } else if (war3Type === 'int') {
     if (typeof tsValue === 'string') {
@@ -74,6 +78,24 @@ export function war3ToTS(war3Type: string, war3Value: string | number | undefine
   }
 
   return tsValue;
+}
+
+export function war3ToDefaultTS(war3Type: 'string'): string;
+export function war3ToDefaultTS(war3Type: 'int'): number;
+export function war3ToDefaultTS(war3Type: 'unreal'): number;
+export function war3ToDefaultTS(war3Type: 'real'): number;
+export function war3ToDefaultTS(war3Type: 'bool'): boolean;
+export function war3ToDefaultTS(war3Type: string): string;
+export function war3ToDefaultTS(war3Type: string): string | number | boolean {
+  if (war3Type === 'string') {
+    return '';
+  } else if (war3Type === 'int' || war3Type === 'unreal' || war3Type === 'real') {
+    return 0;
+  } else if (war3Type === 'bool') {
+    return false;
+  }
+
+  return '';
 }
 
 export function tsToWar3(id: string, war3Type: string, tsValue: string | number | boolean): Modification {
@@ -145,7 +167,7 @@ export function war3TypeToTS(type: string): 'string' | 'number' | 'boolean' {
 }
 
 export function pascalCase(what: string): string {
-  return what.replace(/[-(),]/g, ' ').replace(/['’]/g, '').replace(/\//g, ' Or ').replace(/\+/g, ' Plus ').replace(/ +/g, ' ').trim().split(' ').map((word) => `${word[0].toUpperCase()}${word.slice(1)}`).join('');
+  return what.replace(/[-(),]/g, ' ').replace(/['’!.]/g, '').replace(/\//g, ' Or ').replace(/\&/g, ' And ').replace(/\+/g, ' Plus ').replace(/\%/g, ' Percent ').replace(/ +/g, ' ').trim().split(' ').map((word) => `${word[0].toUpperCase()}${word.slice(1)}`).join('');
 }
 
 export function camelCase(what: string): string {

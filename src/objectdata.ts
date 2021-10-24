@@ -4,6 +4,9 @@ import { DestructableContainer } from './generated//destructables';
 import { DoodadContainer } from './generated/doodads';
 import { ItemContainer } from './generated/items';
 import { UnitContainer } from './generated/units';
+// import { AbilityContainer } from './generated/abilities';
+// import { BuffContainer } from './generated/buffs';
+// import { UpgradeContainer } from './generated/upgrades';
 import { saveModificationFile } from './utils';
 
 export interface ModificationFiles {
@@ -21,8 +24,11 @@ export class ObjectData {
   items = new ItemContainer();
   destructables = new DestructableContainer();
   doodads = new DoodadContainer();
+  // abilities = new AbilityContainer();
+  // buffs = new BuffContainer();
+  // upgrades = new UpgradeContainer();
   
-  load({ w3u, w3t, w3b, w3d }: ModificationFiles): void {
+  load({ w3u, w3t, w3b, w3d, w3a, w3h, w3q }: ModificationFiles): void {
     if (w3u) {
       this.units.load(w3u.originalTable, w3u.customTable);
     }
@@ -38,6 +44,18 @@ export class ObjectData {
     if (w3d) {
       this.doodads.load(w3d.originalTable, w3d.customTable);
     }
+
+    // if (w3a) {
+    //   this.abilities.load(w3a.originalTable, w3a.customTable);
+    // }
+
+    // if (w3h) {
+    //   this.buffs.load(w3h.originalTable, w3h.customTable);
+    // }
+
+    // if (w3q) {
+    //   this.upgrades.load(w3q.originalTable, w3q.customTable);
+    // }
   }
 
   save(): ModificationFiles {
@@ -62,6 +80,21 @@ export class ObjectData {
     if (w3d) {
       files.w3d = w3d;
     }
+
+    // const w3a = saveModificationFile(War3MapW3d, this.abilities.save());
+    // if (w3a) {
+    //   files.w3a = w3a;
+    // }
+
+    // const w3h = saveModificationFile(War3MapW3u, this.buffs.save());
+    // if (w3h) {
+    //   files.w3h = w3h;
+    // }
+
+    // const w3q = saveModificationFile(War3MapW3d, this.upgrades.save());
+    // if (w3q) {
+    //   files.w3q = w3q;
+    // }
 
     return files;
   }
