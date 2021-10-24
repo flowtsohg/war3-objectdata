@@ -8,8 +8,15 @@ const NULL = '\0\0\0\0';
 const GENERATE_ID_ATTEMPTS = 10000;
 
 export abstract class OEContainer<T> {
+  /**
+   * Game objects.
+   */
   abstract game: {[key: string]: T};
+  /**
+   * Map objects.
+   */
   abstract map: {[key: string]: { oldId: string, newId: string } & T};
+  
   abstract loadModification(object: { oldId: string, newId: string } & T, modification: Modification): void;
   abstract saveModifications(gameObject: T, object: { oldId: string, newId: string } & T): Modification[];
 
@@ -51,14 +58,13 @@ export abstract class OEContainer<T> {
     if (typeof baseIdOrObject === 'string') {
       baseId = baseIdOrObject;
 
-      // Is this object from the game?
-      baseObject = this.game[baseId];
-      
       // Is this object from the map?
+      baseObject = this.map[baseId];
+      
+      // Is this object from the game?
       if (!baseObject) {
-        baseObject = this.map[baseId];
+        baseObject = this.game[baseId];
       }
-
     } else {
       baseId = baseIdOrObject.oldId;
       baseObject = baseIdOrObject;
@@ -68,10 +74,12 @@ export abstract class OEContainer<T> {
       throw Error(`Tried to copy an object that does not exist: ${baseId}`)
     }
 
+    // If an ID was't given, generate one.
     if (!newId) {
       newId = this.generateId(baseId[0] === baseId[0].toUpperCase());
     }
 
+    // Copy the object.
     const object = Object.assign({ oldId: baseId, newId}, baseObject);
 
     this.map[newId] = object;

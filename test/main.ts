@@ -17,7 +17,9 @@ console.log(objectData.items.get(Items.AlleriasFluteOfAccuracy));
 console.log(objectData.destructables.get(Destructables.AshenvaleCanopyTree));
 console.log(objectData.doodads.get(Doodads.AlonsusChapel));
 
-const paladin = <Unit>objectData.units.get(Units.Paladin);
+const paladin = <Unit>objectData.units.copy(Units.Paladin);
 paladin.name = 'Not a Paladin';
 
 const outputModifications = objectData.save();
+
+console.log(outputModifications);
