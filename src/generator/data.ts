@@ -3,7 +3,7 @@ import { GeneratorInput } from "./generator";
 import { readFileSync } from "fs";
 
 function readFile(path: string) {
-  let text = readFileSync(`data/${path}`, 'utf8');
+  let text = readFileSync(`objectdata/${path}`, 'utf8');
 
   // BOM.
   if (text.charCodeAt(0) === 0xFEFF) {
