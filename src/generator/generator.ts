@@ -9,6 +9,7 @@ interface Prop {
   tsType: string;
   name: string;
   profile: boolean;
+  specific: string | undefined;
 }
 
 type OEObject = Record<string, string | number | boolean>;
@@ -24,15 +25,16 @@ function generateProps(metaData: MappedData, weStrings: MappedDataRow): Prop[] {
     const weName = <string>row.string('displayname');
     const name = camelCase(<string>weStrings.string(weName.toLowerCase()));
     const profile = <string>row.string('slk') === 'Profile';
+    const specific = row.string('usespecific') || row.string('notspecific'); // Used for abilities
 
-    props.push({ id, row, field, type, tsType, name, profile });
+    props.push({ id, row, field, type, tsType, name, profile, specific });
   }
 
   return props;
 }
 
 function generateTSInterface(name: string, props: Prop[]): string {
-  return `export interface ${name} {\n${props.map((prop) => `  ${prop.name}: ${prop.tsType};`).join('\n')}\n}`;
+  return `export interface ${name} {\n  oldId: string;\n  newId: string;\n${props.map((prop) => `  ${prop.name}: ${prop.tsType};`).join('\n')}\n}`;
 }
 
 function generateTSEnum(name: string, objects: OEObjects): string {
@@ -68,73 +70,126 @@ function generateTSEnum(name: string, objects: OEObjects): string {
   return `export enum ${name} {\n${Object.entries(names).map(([name, id]) => `  ${name} = '${id}',`).sort().join('\n')}\n}`;
 }
 
+function handleWrongCapitalization(id: string) {
+  if (id === 'Ytsc') {
+    return 'YTsc';
+  }
+
+  return id;
+}
+
+
 function generateObjects(props: Prop[], data: MappedData, profile: MappedData, weStrings: MappedDataRow): OEObjects {
   const objects: OEObjects = {};
 
   for (let [id, row] of Object.entries(data.map)) {
-    if (id === 'Ytsc') {
-      id = 'YTsc';
-    }
     const object: OEObject = {};
 
+    id = handleWrongCapitalization(id);
+
     for (const prop of props) {
-      let value: string | undefined;
+      if (!prop.specific || prop.specific.includes(id)) {
+        let value: string | undefined;
 
-      if (prop.profile) {
-        const profileRow = profile.getRow(id);
+        if (prop.profile) {
+          const profileRow = profile.getRow(id);
 
-        if (profileRow) {
-          value = profileRow.string(prop.field.toLowerCase());
+          if (profileRow) {
+            value = profileRow.string(prop.field.toLowerCase());
+          }
+        } else {
+          value = row.string(prop.field);
         }
-      } else {
-        value = row.string(prop.field);
-      }
 
-      // Lots of values are missing, especially for buffs.
-      if (value === undefined) {
-        object[prop.name] = war3ToDefaultTS(prop.type);
-      } else {
-        if (value.startsWith('WESTRING')) {
-          value = weStrings.string(value);
-        }
-  
-        try {
-          object[prop.name] = war3ToTS(prop.type, value);
-        } catch (e) {
-          console.log('FAILED TO CONVERT WAR3 TO TS', id, prop.id, prop.name, value, typeof value)
+        // Lots of values are missing, especially for buffs.
+        if (value === undefined) {
+          object[prop.name] = war3ToDefaultTS(prop.type);
+        } else {
+          if (value.startsWith('WESTRING')) {
+            value = weStrings.string(value);
+          }
+    
+          try {
+            object[prop.name] = war3ToTS(prop.type, value);
+          } catch (e) {
+            console.log('FAILED TO CONVERT WAR3 TO TS', id, prop.id, prop.name, value, typeof value)
+          }
         }
       }
     }
 
-    // console.log(id, object)
     // Some objects seem to have no real data.
     if (object['name'] || object['editorSuffix'] || object['nameEditorOnly'] || object['tooltip']) {
+      // Not needed, but makes stuff more consistent with the map data.
+      object['oldId'] = id;
+      object['newId'] = '\0\0\0\0';
+
       objects[id] = object;
     } else {
-      console.log('Found no namefor object', id);
+      console.log('Found no name for object', id);
     }
   }
 
   return objects;
 }
 
-function generateTSContainer(interfaceName: string, enumName: string, mapName: string, props: Prop[]) {
-  return `type ${mapName} = { oldId: string, newId: string } & ${interfaceName};
+function generateTSContainer(interfaceName: string, enumName: string, props: Prop[]) {
+  const lowerInterfaceName = interfaceName.toLowerCase();
 
-export class ${interfaceName}Container extends OEContainer<${interfaceName}> {
-  override game = <{[key in ${enumName}]: ${interfaceName}}>objects;
-  override map: {[key: string]: ${mapName} } = {};
-  override loadModification(object: ${mapName}, modification: Modification) {
-    const { id, value } = modification;
-    switch(id) {
-${props.map((prop) => `      case '${prop.id}': object.${prop.name} = war3ToTS('${prop.type}', value); return;`).join('\n')}
-      default: throw Error(\`Unknown modification: \${id}\`);
-    }
+  return `export function ${lowerInterfaceName}Loader(object: ${interfaceName}, modification: Modification) {
+  const { id, value } = modification;
+  switch(id) {
+${props.map((prop) => `    case '${prop.id}': object.${prop.name} = war3ToTS('${prop.type}', value); return;`).join('\n')}
+    default: throw Error(\`Unknown modification: \${id}\`);
   }
-  override saveModifications(gameObject: ${interfaceName}, object: ${mapName}): Modification[] {
-    const modifications: Modification[] = [];
-${props.map((prop) => `    if (object.${prop.name} !== gameObject.${prop.name}) { modifications.push(tsToWar3('${prop.id}', '${prop.type}', object.${prop.name})); }`).join('\n')}
-    return modifications;
+}
+
+export function ${lowerInterfaceName}Saver(gameObject: ${interfaceName}, object: ${interfaceName}): Modification[] {
+  const modifications: Modification[] = [];
+${props.map((prop) => `  if (object.${prop.name} !== gameObject.${prop.name}) { modifications.push(tsToWar3('${prop.id}', '${prop.type}', object.${prop.name})); }`).join('\n')}
+  return modifications;
+}
+
+export class ${interfaceName}Container {
+  /**
+   * Game ${lowerInterfaceName}s.
+   */
+  game = <Readonly<{[key in ${enumName}]: Readonly<${interfaceName}>}>>OBJECTS;
+  
+  /**
+   * Map ${lowerInterfaceName}s.
+   */
+  map: {[key: string]: ${interfaceName} } = {};
+
+  /**
+   * Get an existing ${lowerInterfaceName}.
+   * 
+   * If the ${lowerInterfaceName} isn't in the map data but is in the game data, it will be copied to the map data.
+   */
+  get(id: string): ${interfaceName} | undefined {
+    return get(this, id);
+  }
+
+  /**
+   * Copy an existing ${lowerInterfaceName}.
+   * 
+   * The source ${lowerInterfaceName} can either be given as a string ID, or an ${lowerInterfaceName} returned from previous get/copy calls.
+   * 
+   * If newId is supplied, it will be used as the new ${lowerInterfaceName}'s ID, otherwise a random ID is generated.
+   * 
+   * If a random ID is generated, its first letter will be capitalized if the base ID's first letter is capitalized, to support hero units.
+   */
+  copy(baseIdOrObject: string | ${interfaceName}, newId?: string): ${interfaceName} | undefined {
+    return copy(this, baseIdOrObject, newId);
+  }
+
+  /**
+   * Checks if the map contains an ${lowerInterfaceName} with the given ID.
+   * 
+   * Does not the game data.
+   */
+  has(id: string): boolean {
+    return !!this.map[id];
   }
 }`;
 }
@@ -156,17 +211,20 @@ function generateOutput(type: string, props: Prop[], objects: OEObjects): Genera
   const fileName = `${type.toLowerCase()}s`;
   const interfaceName = type;
   const enumName = enumForType(type);
-  const mapName = `Map${type}`;
   const tsContent = [
     [
+      `import { readFileSync } from 'fs';`,
       `import Modification from 'mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/modification';`,
-      `import { OEContainer } from '../container';`,
+      `import { get, copy } from '../container';`,
       `import { war3ToTS, tsToWar3 } from '../utils';`,
-      `import * as objects from './${fileName}data.json';`,
     ].join('\n'),
+    `const OBJECTS = Object.freeze(JSON.parse(readFileSync(\`\${__dirname}/${fileName}data.json\`, 'utf8')));
+for (const object of Object.values(OBJECTS)) {
+  Object.freeze(object);
+}`,
     generateTSInterface(interfaceName, props),
     generateTSEnum(enumName, objects),
-    generateTSContainer(interfaceName, enumName, mapName, props),
+    generateTSContainer(interfaceName, enumName, props),
   ].join('\n\n');
   const jsonContent = JSON.stringify(objects, undefined, 2);
 
@@ -192,13 +250,13 @@ export interface GeneratorInput {
 }
 
 export interface GeneratorResult {
-  units: GeneratedObjects;
-  items: GeneratedObjects;
-  destructables: GeneratedObjects;
-  doodads: GeneratedObjects;
-  // abilities: GeneratedObjects;
-  // buffs: GeneratedObjects;
-  // upgrades: GeneratedObjects;
+  units?: GeneratedObjects;
+  items?: GeneratedObjects;
+  destructables?: GeneratedObjects;
+  doodads?: GeneratedObjects;
+  abilities?: GeneratedObjects;
+  buffs?: GeneratedObjects;
+  upgrades?: GeneratedObjects;
 }
 
 export async function objectDataGenerator({

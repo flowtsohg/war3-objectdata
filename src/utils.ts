@@ -2,6 +2,7 @@ import War3MapW3d from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3d/file";
 import War3MapW3u from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/file";
 import Modification from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/modification";
 import ModifiedObject from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/modifiedobject";
+import { randomInRange } from 'mdx-m3-viewer/dist/cjs/common/math';
 
 export function war3ToTS(war3Type: 'string', war3Value: string | number | undefined): string;
 export function war3ToTS(war3Type: 'int', war3Value: string | number | undefined): number;
@@ -174,4 +175,23 @@ export function camelCase(what: string): string {
   const pascal = pascalCase(what);
 
   return `${pascal[0].toLowerCase()}${pascal.slice(1)}`;
+}
+
+const GENERATE_ID_ATTEMPTS = 10000;
+export function generateId(map: Record<string, unknown>, capitalize: boolean): string {
+  let first = 97;
+
+  if (capitalize) {
+    first = 65;
+  }
+
+  for (let i = 0; i < GENERATE_ID_ATTEMPTS; i++) {
+    const id = String.fromCharCode(randomInRange(first, first + 25), randomInRange(97, 122), randomInRange(97, 122), randomInRange(97, 122));
+
+    if (!map[id]) {
+      return id;
+    }
+  }
+
+  throw Error('FAILED TO GENERATE A UNIQUE ID');
 }
