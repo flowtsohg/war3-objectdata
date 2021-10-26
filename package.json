@@ -1,13 +1,14 @@
 {
   "name": "war3-objectdata",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A Warcraft 3 object data helper",
   "main": "dist/cjs/index.js",
   "types": "dist/cjs/index.d.ts",
   "scripts": {
     "generate": "ts-node src/generator/main.ts",
-    "build": "tsc",
-    "prepublishOnly": "npm run generate && npm run build",
+    "compile": "tsc",
+    "build": "npm run generate && npm run compile",
+    "prepublishOnly": "npm run build",
     "test": "ts-node test/main.ts"
   },
   "repository": {

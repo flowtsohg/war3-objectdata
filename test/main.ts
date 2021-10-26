@@ -1,6 +1,6 @@
 import { readFileSync } from "fs";
 import War3Map from "mdx-m3-viewer/dist/cjs/parsers/w3x/map";
-import { ObjectData, Unit, Units, Items, Destructables, Doodads /*, Abilities, Buffs, Upgrades*/ } from "../src";
+import { ObjectData, Unit, Units, Items, Destructables, Doodads /*, Abilities, Buffs, Upgrades*/ } from "../dist/cjs";
 
 const objectData = new ObjectData();
 

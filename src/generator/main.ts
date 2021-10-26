@@ -8,11 +8,12 @@ import { existsSync } from 'fs';
   const generatorData = await loadData('enus');
   const objectData = await objectDataGenerator(generatorData);
 
-  if (!existsSync('src/generated')) { await mkdir('src/generated') }
+  if (!existsSync('src/generated')) { await mkdir('src/generated'); }
+  if (!existsSync('dist/cjs/generated')) { await mkdir('dist/cjs/generated', { recursive: true }); }
 
   for (const [name, objects] of Object.entries(objectData)) {
-    await writeFile(`src/generated/${name}data.json`, objects.jsonContent);
     await writeFile(`src/generated/${name}.ts`, objects.tsContent);
+    await writeFile(`dist/cjs/generated/${name}data.json`, objects.jsonContent);
   }
   console.log('Finished');
 }());
