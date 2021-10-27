@@ -7,7 +7,7 @@ import { DestructableContainer, DestructableProps } from './generated/destructab
 import { DoodadContainer, DoodadProps } from './generated/doodads';
 import { AbilityContainer, AbilityProps, AbilitySpecificProps } from './generated/abilities';
 import { BuffContainer, BuffProps } from './generated/buffs';
-// import { UpgradeContainer } from './generated/upgrades';
+import { UpgradeContainer, UpgradeProps } from './generated/upgrades';
 import { saveModificationFile } from './utils';
 
 export interface ModificationFiles {
@@ -27,7 +27,7 @@ export class ObjectData {
   doodads = new DoodadContainer();
   abilities = new AbilityContainer();
   buffs = new BuffContainer();
-  // upgrades = new UpgradeContainer();
+  upgrades = new UpgradeContainer();
   
   load({ w3u, w3t, w3b, w3d, w3a, w3h, w3q }: ModificationFiles): void {
     if (w3u) {
@@ -54,9 +54,9 @@ export class ObjectData {
       load(this.buffs, w3h.originalTable, w3h.customTable, BuffProps);
     }
 
-    // if (w3q) {
-    //   load(this.upgrades, w3q.originalTable, w3q.customTable, upgradeLoader);
-    // }
+    if (w3q) {
+      load(this.upgrades, w3q.originalTable, w3q.customTable, UpgradeProps);
+    }
   }
 
   save(): ModificationFiles {
@@ -92,10 +92,10 @@ export class ObjectData {
       files.w3h = w3h;
     }
 
-    // const w3q = saveModificationFile(War3MapW3d, save(this.upgrades, upgradeSaver));
-    // if (w3q) {
-    //   files.w3q = w3q;
-    // }
+    const w3q = saveModificationFile(War3MapW3d, save(this.upgrades, UpgradeProps));
+    if (w3q) {
+      files.w3q = w3q;
+    }
 
     return files;
   }

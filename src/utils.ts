@@ -4,12 +4,6 @@ import Modification from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/modification";
 import ModifiedObject from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/modifiedobject";
 import { randomInRange } from 'mdx-m3-viewer/dist/cjs/common/math';
 
-export function war3ToTS(war3Type: 'string', war3Value: string | number | undefined): string;
-export function war3ToTS(war3Type: 'int', war3Value: string | number | undefined): number;
-export function war3ToTS(war3Type: 'unreal', war3Value: string | number | undefined): number;
-export function war3ToTS(war3Type: 'real', war3Value: string | number | undefined): number;
-export function war3ToTS(war3Type: 'bool', war3Value: string | number | undefined): boolean;
-export function war3ToTS(war3Type: string, war3Value: string | number | undefined): string;
 export function war3ToTS(war3Type: string, war3Value: string | number | undefined): string | number | boolean {
   let tsValue = war3Value;
 

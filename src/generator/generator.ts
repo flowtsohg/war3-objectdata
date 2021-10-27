@@ -23,9 +23,20 @@ function generateProps(metaData: MappedData, weStrings: MappedDataRow): Prop[] {
     const type = <string>row.string('type');
     const tsType = war3TypeToTS(type);
     const displayName = <string>row.string('displayname');
-    const name = camelCase(<string>weStrings.string(displayName.toLowerCase()));
     const profile = <string>row.string('slk') === 'Profile'; // Used for strings.
     const specific = row.string('usespecific') || row.string('notspecific'); // Used for abilities.
+    let name = camelCase(<string>weStrings.string(displayName.toLowerCase()));
+
+    // Wind Walk has the same named Backstab Damage fields - one set for the number values, one set for whether they are enabled.
+    if (id === 'Owk4') {
+      name += 'Enabled';
+    }
+
+    // Upgrade fields share the same name.
+    const conflict = props.find((prop) => prop.name === name);
+    if (conflict) {
+      name += <string>row.string('effecttype');
+    }
 
     props.push({ id, row, field, type, tsType, name, profile, specific });
   }
@@ -35,34 +46,34 @@ function generateProps(metaData: MappedData, weStrings: MappedDataRow): Prop[] {
 
 function generateTSInterface(name: string, props: Prop[]): string {
   const tsInterface = `export interface ${name} extends IDs {\n${props.map((prop) => `  ${prop.name}: ${prop.tsType};`).join('\n')}\n}`;
-  const outBaseProps = props.map((prop) => `{ id: '${prop.id}', name: '${prop.name}', type: '${prop.type}' }`).join(', ');
+  const outBaseProps = props.map((prop) => `{ id: <const>'${prop.id}', name: <const>'${prop.name}', type: <const>'${prop.type}' }`).join(', ');
 
   return `${tsInterface}\n\nexport const ${name}Props = [ ${outBaseProps} ];`;
 }
 
 function generateTSAbilityInterfaces(name: string, objects: OEObjects, props: Prop[]) {
   const baseProps = props.filter((prop) => !prop.specific);
-  const interfaces = [`export interface ${name} extends IDs {\n${baseProps.map((prop) => `  ${prop.name}: ${prop.tsType};`).join('\n')}\n}`];
-  const outBaseProps = baseProps.map((prop) => `{ id: '${prop.id}', name: '${prop.name}', type: '${prop.type}' }`).join(', ');
+  const baseInterface = baseProps.map((prop) => `  ${prop.name}: ${prop.tsType};`).join('\n');
+  const interfaces = [];
+  const outBaseProps = baseProps.map((prop) => `{ id: <const>'${prop.id}', name: <const>'${prop.name}', type: <const>'${prop.type}' }`).join(', ');
   const outProps: Record<string, string> = {};
 
   for (const object of Object.values(objects)) {
     const id = <string>object['oldId'];
     const abilityProps = props.filter((prop) => prop.specific && prop.specific.includes(id));
     let objectName = getOEObjectName(object);
-
-    if (id === 'AOwk') {
-      abilityProps[3].name += 'Enabled';
-    }
-
-    interfaces.push(`export interface ${objectName} extends ${name} {\n${abilityProps.map((prop) => `  ${prop.name}: ${prop.tsType};`).join('\n')}\n}`);
+    
 
     if (abilityProps.length) {
-      outProps[id] = abilityProps.map((prop) => `{ id: '${prop.id}', name: '${prop.name}', type: '${prop.type}' }`).join(', ');
+      interfaces.push(`  export interface ${objectName} extends ${name} {\n${abilityProps.map((prop) => `    ${prop.name}: ${prop.tsType};`).join('\n')}\n  }`);
+
+      outProps[id] = abilityProps.map((prop) => `{ id: <const>'${prop.id}', name: <const>'${prop.name}', type: <const>'${prop.type}' }`).join(', ');
+    } else {
+      interfaces.push(`  export interface ${objectName} extends ${name} {}`);
     }
   }
 
-  return `${interfaces.join('\n\n')}\n\nexport const ${name}Props = [ ${outBaseProps} ];\nexport const ${name}SpecificProps = {\n${Object.entries(outProps).map(([ id, props ]) => `  ${id}: [${props}],`).join('\n')}\n};`;
+  return `interface ${name} extends IDs {\n${baseInterface}\n};\n\nexport namespace ${name}Types {\n${interfaces.join('\n\n')}\n};\n\nexport const ${name}Props = [ ${outBaseProps} ];\nexport const ${name}SpecificProps = {\n${Object.entries(outProps).map(([ id, props ]) => `  ${id}: [${props}],`).join('\n')}\n};`;
 }
 
 function getOEObjectName(object: OEObject) {
@@ -77,10 +88,6 @@ function getOEObjectName(object: OEObject) {
     name = pascalCase(name);
   }
 
-  if (name === 'UndefinedGrunt') {
-    console.log(object)
-  }
-
   return name;
 }
 
@@ -92,7 +99,7 @@ function generateTSEnum(name: string, objects: OEObjects): string {
 
     if (enumName) {
       if (names[enumName] !== undefined) {
-        for (let suffix = 2; suffix < 20; suffix++) {
+        for (let suffix = 1; suffix < 20; suffix++) {
           if (names[enumName + suffix] === undefined) {
             enumName = enumName + suffix;
             break;
@@ -247,7 +254,7 @@ export interface GeneratorResult {
   doodads: GeneratedObjects;
   abilities: GeneratedObjects;
   buffs: GeneratedObjects;
-  // upgrades: GeneratedObjects;
+  upgrades: GeneratedObjects;
 }
 
 export async function objectDataGenerator({
@@ -274,14 +281,14 @@ export async function objectDataGenerator({
   const doodadProps = generateProps(doodadMeta, weStrings);
   const abilityProps = generateProps(abilityMeta, weStrings);
   const buffProps = generateProps(buffMeta, weStrings);
-  // const upgradeProps = generateProps(upgradeMeta, weStrings);
+  const upgradeProps = generateProps(upgradeMeta, weStrings);
   const units = generateObjects(unitProps, unitData, profile, weStrings);
   const items = generateObjects(itemProps, itemData, profile, weStrings);
   const destructables = generateObjects(destructableProps, destructableData, profile, weStrings);
   const doodads = generateObjects(doodadProps, doodadData, profile, weStrings);
   const abilities = generateObjects(abilityProps, abilityData, profile, weStrings);
   const buffs = generateObjects(buffProps, buffData, profile, weStrings);
-  // const upgrades = generateObjects(upgradeProps, upgradeData, profile, weStrings);
+  const upgrades = generateObjects(upgradeProps, upgradeData, profile, weStrings);
 
   return {
     units: generateOutput('Unit', unitProps, units, false),
@@ -290,6 +297,6 @@ export async function objectDataGenerator({
     doodads: generateOutput('Doodad', doodadProps, doodads, false),
     abilities: generateOutput('Ability', abilityProps, abilities, true),
     buffs: generateOutput('Buff', buffProps, buffs, false),
-    // upgrades: generateOutput('Upgrade', upgradeProps, upgrades, false),
+    upgrades: generateOutput('Upgrade', upgradeProps, upgrades, false),
   };
 }

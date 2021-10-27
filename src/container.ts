@@ -8,8 +8,8 @@ export interface IDs {
   newId: string;
 }
 
-interface Objects<T, E> {
-  game: Readonly<{[key in keyof E]: Readonly<T> }>;
+interface Objects<T> {
+  game: Readonly<{[key: string]: Readonly<T> }>;
   map: {[key: string]: T };
 }
 
@@ -77,7 +77,7 @@ export function objectSaver<T extends IDs>(gameObject: T, object: T, baseProps: 
   return modifications;
 }
 
-function loadObject<T extends IDs, E>(objects: Objects<T, E>, oldId: string, newId: string, modifications: Modification[], props: Prop[], specificProps?: {[key: string]: Prop[] }) {
+function loadObject<T extends IDs, E>(objects: Objects<T>, oldId: string, newId: string, modifications: Modification[], props: Prop[], specificProps?: {[key: string]: Prop[] }) {
   let objectId;
 
   if (newId === "\0\0\0\0") {
@@ -86,7 +86,7 @@ function loadObject<T extends IDs, E>(objects: Objects<T, E>, oldId: string, new
     objectId = newId;
   }
 
-  const gameObject = objects.game[<keyof E>oldId];
+  const gameObject = objects.game[oldId];
 
   if (!gameObject) {
     throw Error(`Failed to load an object: ${oldId}`);
@@ -99,7 +99,7 @@ function loadObject<T extends IDs, E>(objects: Objects<T, E>, oldId: string, new
   objects.map[objectId] = mapObject;
 }
 
-export function load<T extends IDs, E>(objects: Objects<T, E>, originalTable: ModificationTable, customTable: ModificationTable, props: Prop[], specificProps?: {[key: string]: Prop[] }): void {
+export function load<T extends IDs, E>(objects: Objects<T>, originalTable: ModificationTable, customTable: ModificationTable, props: Prop[], specificProps?: {[key: string]: Prop[] }): void {
   for (const { oldId, newId, modifications } of originalTable.objects) {
     loadObject(objects, oldId, newId, modifications, props, specificProps);
   }
@@ -109,12 +109,12 @@ export function load<T extends IDs, E>(objects: Objects<T, E>, originalTable: Mo
   }
 }
 
-export function save<T extends IDs, E>(objects: Objects<T, E>, props: Prop[], specificProps?: {[key: string]: Prop[] }): { original: ModifiedObject[], custom: ModifiedObject[] } {
+export function save<T extends IDs, E>(objects: Objects<T>, props: Prop[], specificProps?: {[key: string]: Prop[] }): { original: ModifiedObject[], custom: ModifiedObject[] } {
   const original: ModifiedObject[] = [];
   const custom: ModifiedObject[] = [];
 
   for (const object of Object.values(objects.map)) {
-    const gameObject = objects.game[<keyof E>object.oldId];
+    const gameObject = objects.game[object.oldId];
 
     if (!gameObject) {
       throw Error(`Tried to save the modifications of an object with an invalid oldId: ${object.oldId} (newId=${object.newId})`);
@@ -211,7 +211,7 @@ export abstract class Container<T extends IDs> {
     }
 
     // Copy the object.
-    const object = Object.seal(Object.assign({ oldId: baseId, newId}, baseObject));
+    const object = Object.seal(Object.assign({}, baseObject, { oldId: baseId, newId}));
 
     this.map[newId] = object;
 
