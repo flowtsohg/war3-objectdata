@@ -1,7 +1,7 @@
 import {
   MappedData,
   MappedDataRow,
-} from "mdx-m3-viewer/dist/cjs/utils/mappeddata";
+} from "mdx-m3-viewer-th/dist/cjs/utils/mappeddata";
 import {
   camelCase,
   pascalCase,

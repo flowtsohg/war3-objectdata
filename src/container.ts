@@ -1,6 +1,6 @@
-import Modification from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/modification";
-import ModificationTable from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/modificationtable";
-import ModifiedObject from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/modifiedobject";
+import Modification from "mdx-m3-viewer-th/dist/cjs/parsers/w3x/w3u/modification";
+import ModificationTable from "mdx-m3-viewer-th/dist/cjs/parsers/w3x/w3u/modificationtable";
+import ModifiedObject from "mdx-m3-viewer-th/dist/cjs/parsers/w3x/w3u/modifiedobject";
 import { generateId, pushArray, tsToWar3, war3ToTS } from "./utils";
 
 export interface IDs {

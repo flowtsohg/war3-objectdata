@@ -1,5 +1,5 @@
-import War3MapW3d from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3d/file";
-import War3MapW3u from "mdx-m3-viewer/dist/cjs/parsers/w3x/w3u/file";
+import War3MapW3d from "mdx-m3-viewer-th/dist/cjs/parsers/w3x/w3d/file";
+import War3MapW3u from "mdx-m3-viewer-th/dist/cjs/parsers/w3x/w3u/file";
 import { load, save } from "./container";
 import { UnitContainer, UnitProps } from "./generated/units";
 import { ItemContainer, ItemProps } from "./generated/items";
