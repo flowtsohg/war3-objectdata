@@ -8268,7 +8268,6 @@ useMMColor=0
 walkable=0
 MMBlue=0
 defScale=1.000
-defScale:hd=0.45
 vertR=255,255,255,255,255,255,255,255,255,255
 fixedRot=-1
 minScale=0.500
@@ -10177,7 +10176,6 @@ useMMColor=0
 walkable=0
 MMBlue=0
 defScale=1.000
-defScale:hd=0.45
 vertR=255,255,255,255,255,255,255,255,255,255
 fixedRot=-1
 minScale=0.500
@@ -14930,8 +14928,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=192
-file=Buildings\Other\CityBuildingLarge_45\CityBuildingLarge_45
-file:hd=Doodads\Silvermoon\Structures\SilvermoonResidentialBuildings_45\SilvermoonResidentialBuildings_45
+file=Doodads\Silvermoon\Structures\SilvermoonResidentialBuildings_45\SilvermoonResidentialBuildings_45
 
 [SRbe]
 skinType=doodad
@@ -14960,8 +14957,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=192
-file=Buildings\Other\CityBuildingLarge_135\CityBuildingLarge_135
-file:hd=Doodads\Silvermoon\Structures\SilvermoonResidentialBuildings_135\SilvermoonResidentialBuildings_135
+file=Doodads\Silvermoon\Structures\SilvermoonResidentialBuildings_135\SilvermoonResidentialBuildings_135
 
 [SRbv]
 skinType=doodad
@@ -14990,8 +14986,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=192
-file=Buildings\Other\CityBuildingLarge_90\CityBuildingLarge_90
-file:hd=Doodads\Silvermoon\Structures\SilvermoonResidentialBuildings_0\SilvermoonResidentialBuildings_0
+file=Doodads\Silvermoon\Structures\SilvermoonResidentialBuildings_0\SilvermoonResidentialBuildings_0
 
 [SRbh]
 skinType=doodad
@@ -15020,8 +15015,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=192
-file=Buildings\Other\CityBuildingLarge_0\CityBuildingLarge_0
-file:hd=Doodads\Silvermoon\Structures\SilvermoonResidentialBuildings_90\SilvermoonResidentialBuildings_90
+file=Doodads\Silvermoon\Structures\SilvermoonResidentialBuildings_90\SilvermoonResidentialBuildings_90
 
 [SSmt]
 skinType=doodad
@@ -15050,8 +15044,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=640
-file=Doodads\Cityscape\Structures\CityMainTower\CityMainTower
-file:hd=Doodads\Silvermoon\Structures\SunfurySpireMainTower\SunfurySpireMainTower
+file=Doodads\Silvermoon\Structures\SunfurySpireMainTower\SunfurySpireMainTower
 
 [SSst]
 skinType=doodad
@@ -15080,8 +15073,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Cityscape\Structures\CityMainTower\CityMainTower
-file:hd=Doodads\Silvermoon\Structures\SunfurySpireSideTower\SunfurySpireSideTower
+file=Doodads\Silvermoon\Structures\SunfurySpireSideTower\SunfurySpireSideTower
 
 [STdl]
 skinType=doodad
@@ -15110,8 +15102,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=384
-file=Doodads\Cityscape\Structures\CityMainTower\CityMainTower
-file:hd=Doodads\Silvermoon\Structures\SilvermoonTowerDoodadsLarge\SilvermoonTowerDoodadsLarge
+file=Doodads\Silvermoon\Structures\SilvermoonTowerDoodadsLarge\SilvermoonTowerDoodadsLarge
 
 [STdm]
 skinType=doodad
@@ -15140,8 +15131,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Cityscape\Structures\CityMainTower\CityMainTower
-file:hd=Doodads\Silvermoon\Structures\SilvermoonTowerDoodadsMedium\SilvermoonTowerDoodadsMedium
+file=Doodads\Silvermoon\Structures\SilvermoonTowerDoodadsMedium\SilvermoonTowerDoodadsMedium
 
 [STds]
 skinType=doodad
@@ -15170,8 +15160,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=128
-file=Doodads\Cityscape\Structures\CityMainTower\CityMainTower
-file:hd=Doodads\Silvermoon\Structures\SilvermoonTowerDoodadsSmall\SilvermoonTowerDoodadsSmall
+file=Doodads\Silvermoon\Structures\SilvermoonTowerDoodadsSmall\SilvermoonTowerDoodadsSmall
 
 [SWss]
 skinType=doodad
@@ -15200,8 +15189,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=704
-file=Doodads\Cityscape\Structures\CityWallStraightShort\CityWallStraightShort
-file:hd=Doodads\Silvermoon\Structures\SilvermoonWallStraightDoorShort\SilvermoonWallStraightDoorShort_0.mdl
+file=Doodads\Silvermoon\Structures\SilvermoonWallStraightDoorShort\SilvermoonWallStraightDoorShort.mdl
 
 [SWs0]
 skinType=doodad
@@ -15230,8 +15218,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Cityscape\Structures\CityWallStraight\CityWallStraight
-file:hd=Doodads\Silvermoon\Structures\SilvermoonWallStraight\SilvermoonWallStraight
+file=Doodads\Silvermoon\Structures\SilvermoonWallStraight\SilvermoonWallStraight
 
 [SWsl]
 skinType=doodad
@@ -15260,8 +15247,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=128
-file=Doodads\Cityscape\Structures\CityWallStraightLong\CityWallStraightLong
-file:hd=Doodads\Silvermoon\Structures\SilvermoonWallStraightLong\SilvermoonWallStraightLong
+file=Doodads\Silvermoon\Structures\SilvermoonWallStraightLong\SilvermoonWallStraightLong
 
 [SWt0]
 skinType=doodad
@@ -15290,8 +15276,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Cityscape\Structures\CityWall_T\CityWall_T
-file:hd=Doodads\Silvermoon\Structures\SilvermoonWall_T\SilvermoonWall_T
+file=Doodads\Silvermoon\Structures\SilvermoonWall_T\SilvermoonWall_T
 
 [SWsd]
 skinType=doodad
@@ -15320,8 +15305,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Cityscape\Structures\CityWallStraightDoor\CityWallStraightDoor
-file:hd=Doodads\Silvermoon\Structures\SilvermoonWallStraightDoor\SilvermoonWallStraightDoor_0.mdl
+file=Doodads\Silvermoon\Structures\SilvermoonWallStraightDoor\SilvermoonWallStraightDoor.mdl
 
 [SWse]
 skinType=doodad
@@ -15350,8 +15334,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Cityscape\Structures\CityWallStraightShortDoor\CityWallStraightShortDoor
-file:hd=Doodads\Silvermoon\Structures\SilvermoonWallStraightDoorShort\SilvermoonWallStraightDoorShort_0.mdl
+file=Doodads\Silvermoon\Structures\SilvermoonWallStraightDoorShort\SilvermoonWallStraightDoorShort.mdl
 
 [SWc0]
 skinType=doodad
@@ -15380,8 +15363,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Cityscape\Structures\CityWallCorner\CityWallCorner
-file:hd=Doodads\Silvermoon\Structures\SilvermoonWallCorner\SilvermoonWallCorner
+file=Doodads\Silvermoon\Structures\SilvermoonWallCorner\SilvermoonWallCorner
 
 [SWe0]
 skinType=doodad
@@ -15410,8 +15392,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Cityscape\Structures\CityWallEndcap\CityWallEndcap
-file:hd=Doodads\Silvermoon\Structures\SilvermoonWallEndcap\SilvermoonWallEndcap
+file=Doodads\Silvermoon\Structures\SilvermoonWallEndcap\SilvermoonWallEndcap
 
 [SAe0]
 skinType=doodad
@@ -15440,8 +15421,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=1024
-file=Doodads\Cityscape\Structures\ArchwayEntrance1\ArchwayEntrance1
-file:hd=Doodads\Silvermoon\Structures\SilvermoonArchwayEntrance_1\SilvermoonArchwayEntrance_1
+file=Doodads\Silvermoon\Structures\SilvermoonArchwayEntrance_1\SilvermoonArchwayEntrance_1
 
 [SAe1]
 skinType=doodad
@@ -15470,8 +15450,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=768
-file=Doodads\Cityscape\Structures\ArchwayEntrance45\ArchwayEntrance45
-file:hd=Doodads\Silvermoon\Structures\SilvermoonArchwayEntrance_45\SilvermoonArchwayEntrance_45
+file=Doodads\Silvermoon\Structures\SilvermoonArchwayEntrance_45\SilvermoonArchwayEntrance_45
 
 [SA00]
 skinType=doodad
@@ -15500,8 +15479,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=1024
-file=Doodads\Cityscape\Structures\Archway1\Archway1
-file:hd=Doodads\Silvermoon\Structures\SilvermoonArchway_1\SilvermoonArchway_1
+file=Doodads\Silvermoon\Structures\SilvermoonArchway_1\SilvermoonArchway_1
 
 [SA01]
 skinType=doodad
@@ -15530,8 +15508,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=896
-file=Doodads\Cityscape\Structures\Archway45\Archway45
-file:hd=Doodads\Silvermoon\Structures\SilvermoonArchway_45\SilvermoonArchway_45
+file=Doodads\Silvermoon\Structures\SilvermoonArchway_45\SilvermoonArchway_45
 
 [LSt0]
 skinType=doodad
@@ -15560,8 +15537,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=384
-file=Doodads\Cityscape\Structures\CityMainTower\CityMainTower
-file:hd=Doodads\Silvermoon\Structures\LargeSilvermoonTower\LargeSilvermoonTower
+file=Doodads\Silvermoon\Structures\LargeSilvermoonTower\LargeSilvermoonTower
 
 [EMt0]
 skinType=doodad
@@ -15800,8 +15776,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Cityscape\Structures\CityMainTower\CityMainTower
-file:hd=Doodads\Dalaran\Structures\DalaranVioletHoldMainStructure\DalaranVioletHoldMainStructure
+file=Doodads\Dalaran\Structures\DalaranVioletHoldMainStructure\DalaranVioletHoldMainStructure
 
 [VHs0]
 skinType=doodad
@@ -15830,8 +15805,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=384
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranVioletHoldSpire\DalaranVioletHoldSpire
+file=Doodads\Dalaran\Structures\DalaranVioletHoldSpire\DalaranVioletHoldSpire
 
 [VHss]
 skinType=doodad
@@ -15860,8 +15834,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranVioletHoldSpire_Small\DalaranVioletHoldSpire_Small
+file=Doodads\Dalaran\Structures\DalaranVioletHoldSpire_Small\DalaranVioletHoldSpire_Small
 
 [VHae]
 skinType=doodad
@@ -15890,8 +15863,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=1536
-file=Doodads\Cityscape\Structures\CityWallEndcap\CityWallEndcap
-file:hd=Doodads\Dalaran\Structures\DalaranVioletHoldArchwayEndpiece\DalaranVioletHoldArchwayEndpiece
+file=Doodads\Dalaran\Structures\DalaranVioletHoldArchwayEndpiece\DalaranVioletHoldArchwayEndpiece
 
 [MT00]
 skinType=doodad
@@ -15920,8 +15892,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=384
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranMagusTurret\DalaranMagusTurret
+file=Doodads\Dalaran\Structures\DalaranMagusTurret\DalaranMagusTurret
 
 [MH00]
 skinType=doodad
@@ -15950,8 +15921,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranMagusHighrise\MagusHighrise
+file=Doodads\Dalaran\Structures\DalaranMagusHighrise\MagusHighrise
 
 [MC00]
 skinType=doodad
@@ -15980,8 +15950,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranMagusConservatory\DalaranMagusConservatory
+file=Doodads\Dalaran\Structures\DalaranMagusConservatory\DalaranMagusConservatory
 
 [SA03]
 skinType=doodad
@@ -16010,8 +15979,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=896
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranSunreaverArchway\DalaranSunreaverArchway
+file=Doodads\Dalaran\Structures\DalaranSunreaverArchway\DalaranSunreaverArchway
 
 [SD00]
 skinType=doodad
@@ -16040,8 +16008,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranSunreaverDome\DalaranSunreaverDome
+file=Doodads\Dalaran\Structures\DalaranSunreaverDome\DalaranSunreaverDome
 
 [SDs0]
 skinType=doodad
@@ -16070,8 +16037,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=384
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranSunreaverDome_Small\DalaranSunreaverDome_Small
+file=Doodads\Dalaran\Structures\DalaranSunreaverDome_Small\DalaranSunreaverDome_Small
 
 [SS00]
 skinType=doodad
@@ -16100,8 +16066,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranSunreaverSpire\DalaranSunreaverSpire
+file=Doodads\Dalaran\Structures\DalaranSunreaverSpire\DalaranSunreaverSpire
 
 [EMs0]
 skinType=doodad
@@ -16130,8 +16095,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=768
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranEnclaveMainStructure\DalaranEnclaveMainStructure
+file=Doodads\Dalaran\Structures\DalaranEnclaveMainStructure\DalaranEnclaveMainStructure
 
 [ES00]
 skinType=doodad
@@ -16160,8 +16124,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranEnclaveSpire\DalaranEnclaveSpire
+file=Doodads\Dalaran\Structures\DalaranEnclaveSpire\DalaranEnclaveSpire
 
 [EH00]
 skinType=doodad
@@ -16190,8 +16153,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=384
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranEnclaveHouse\DalaranEnclaveHouse
+file=Doodads\Dalaran\Structures\DalaranEnclaveHouse\DalaranEnclaveHouse
 
 [EHb0]
 skinType=doodad
@@ -16220,8 +16182,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=384
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranEnclaveHouseB\DalaranEnclaveHouseB
+file=Doodads\Dalaran\Structures\DalaranEnclaveHouseB\DalaranEnclaveHouseB
 
 [ET01]
 skinType=doodad
@@ -16250,8 +16211,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranEnclaveTurret\DalaranEnclaveTurret
+file=Doodads\Dalaran\Structures\DalaranEnclaveTurret\DalaranEnclaveTurret
 
 [RSf0]
 skinType=doodad
@@ -16280,8 +16240,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Cityscape\Props\City_Fountain\City_Fountain
-file:hd=Doodads\Dalaran\Structures\DalaranSunreaverFountain\DalaranSunreaverFountain
+file=Doodads\Dalaran\Structures\DalaranSunreaverFountain\DalaranSunreaverFountain
 
 [BA00]
 skinType=doodad
@@ -16310,8 +16269,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=768
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranBuildingA\DalaranBuildingA
+file=Doodads\Dalaran\Structures\DalaranBuildingA\DalaranBuildingA
 
 [BB00]
 skinType=doodad
@@ -16340,8 +16298,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=768
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranBuildingB\DalaranBuildingB
+file=Doodads\Dalaran\Structures\DalaranBuildingB\DalaranBuildingB
 
 [BC00]
 skinType=doodad
@@ -16370,8 +16327,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=768
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranBuildingC\DalaranBuildingC
+file=Doodads\Dalaran\Structures\DalaranBuildingC\DalaranBuildingC
 
 [WSs0]
 skinType=doodad
@@ -16400,8 +16356,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=128
-file=Doodads\Cityscape\Structures\CityWallStraightShort\CityWallStraightShort
-file:hd=Doodads\Dalaran\Structures\DalaranWallStraightShort\DalaranWallStraightShort
+file=Doodads\Dalaran\Structures\DalaranWallStraightShort\DalaranWallStraightShort
 
 [WS00]
 skinType=doodad
@@ -16430,8 +16385,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Cityscape\Structures\CityWallStraight\CityWallStraight
-file:hd=Doodads\Dalaran\Structures\DalaranWallStraight\DalaranWallStraight
+file=Doodads\Dalaran\Structures\DalaranWallStraight\DalaranWallStraight
 
 [WSl0]
 skinType=doodad
@@ -16460,8 +16414,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=704
-file=Doodads\Cityscape\Structures\CityWallStraightLong\CityWallStraightLong
-file:hd=Doodads\Dalaran\Structures\DalaranWallStraightLong\DalaranWallStraightLong
+file=Doodads\Dalaran\Structures\DalaranWallStraightLong\DalaranWallStraightLong
 
 [WT00]
 skinType=doodad
@@ -16490,8 +16443,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Cityscape\Structures\CityWall_T\CityWall_T
-file:hd=Doodads\Dalaran\Structures\DalaranWall_T\DalaranWall_T
+file=Doodads\Dalaran\Structures\DalaranWall_T\DalaranWall_T
 
 [WTa0]
 skinType=doodad
@@ -16520,8 +16472,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Cityscape\Structures\CityWall_TAlt\CityWall_Talt
-file:hd=Doodads\Dalaran\Structures\DalaranWall_TAlt\DalaranWall_TAlt
+file=Doodads\Dalaran\Structures\DalaranWall_TAlt\DalaranWall_TAlt
 
 [WS01]
 skinType=doodad
@@ -16550,8 +16501,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=512
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranWallSpire\DalaranWallSpire
+file=Doodads\Dalaran\Structures\DalaranWallSpire\DalaranWallSpire
 
 [WSa0]
 skinType=doodad
@@ -16580,8 +16530,7 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Ruins\Props\DalaranRuinTower\DalaranRuinTower
-file:hd=Doodads\Dalaran\Structures\DalaranWallSpireAlt\DalaranWallSpireAlt
+file=Doodads\Dalaran\Structures\DalaranWallSpireAlt\DalaranWallSpireAlt
 
 [WD00]
 skinType=doodad
@@ -16611,8 +16560,7 @@ numVar=2
 numVar:hd=1
 version=0
 selSize=512
-file=Doodads\Cityscape\Structures\CityWallStraight\CityWallStraight
-file:hd=Doodads\Dalaran\Structures\DalaranWall90\DalaranWall90
+file=Doodads\Dalaran\Structures\DalaranWall90\DalaranWall90
 
 [WE00]
 skinType=doodad
@@ -16641,5 +16589,4 @@ visRadius=50
 numVar=1
 version=0
 selSize=256
-file=Doodads\Cityscape\Structures\CityWallEndcap\CityWallEndcap
-file:hd=Doodads\Dalaran\Structures\DalaranWallEndcap\DalaranWallEndcap
+file=Doodads\Dalaran\Structures\DalaranWallEndcap\DalaranWallEndcap

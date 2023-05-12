@@ -1,5 +1,5 @@
 ID;PWXL;N;E
-B;X18;Y53;D0
+B;X19;Y54;D0
 C;X1;Y1;K"ID"
 C;X2;K"field"
 C;X3;K"slk"
@@ -18,6 +18,7 @@ C;X15;K"maxVal"
 C;X16;K"forceNonNeg"
 C;X17;K"version"
 C;X18;K"section"
+C;X19;K"netsafe"
 C;X1;Y2;K"bnam"
 C;X2;K"Name"
 C;X3;K"DestructableData"
@@ -33,6 +34,7 @@ C;X13;K0
 C;X15;K"TTName"
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y3;K"bsuf"
 C;X2;K"EditorSuffix"
 C;X3;K"DestructableData"
@@ -48,6 +50,7 @@ C;X13;K1
 C;X15;K50
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y4;K"bcat"
 C;X2;K"category"
 C;X3;K"DestructableData"
@@ -62,6 +65,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y5;K"btil"
 C;X2;K"tilesets"
 C;X3;K"DestructableData"
@@ -77,6 +81,7 @@ C;X13;K0
 C;X15;K"TTDesc"
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y6;K"btsp"
 C;X2;K"tilesetSpecific"
 C;X3;K"DestructableData"
@@ -90,6 +95,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y7;K"bfil"
 C;X2;K"file"
 C;X3;K"Profile"
@@ -106,6 +112,7 @@ C;X13;K0
 C;X15;K"TTDesc"
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y8;K"blit"
 C;X2;K"lightweight"
 C;X3;K"Profile"
@@ -119,6 +126,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y9;K"bflo"
 C;X2;K"fatLOS"
 C;X3;K"DestructableData"
@@ -132,6 +140,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y10;K"btxi"
 C;X2;K"texID"
 C;X3;K"Profile"
@@ -148,6 +157,7 @@ C;X14;K0
 C;X15;K1000
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y11;K"btxf"
 C;X2;K"texFile"
 C;X3;K"Profile"
@@ -164,6 +174,7 @@ C;X13;K1
 C;X15;K"TTDesc"
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y12;K"buch"
 C;X2;K"useClickHelper"
 C;X3;K"DestructableData"
@@ -178,6 +189,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y13;K"bonc"
 C;X2;K"onCliffs"
 C;X3;K"DestructableData"
@@ -191,6 +203,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y14;K"bonw"
 C;X2;K"onWater"
 C;X3;K"DestructableData"
@@ -204,6 +217,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y15;K"bcpd"
 C;X2;K"canPlaceDead"
 C;X3;K"DestructableData"
@@ -218,6 +232,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y16;K"bwal"
 C;X2;K"walkable"
 C;X3;K"DestructableData"
@@ -231,6 +246,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y17;K"bclh"
 C;X2;K"cliffHeight"
 C;X3;K"DestructableData"
@@ -246,6 +262,7 @@ C;X14;K0
 C;X15;K50
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y18;K"btar"
 C;X2;K"targType"
 C;X3;K"DestructableData"
@@ -260,6 +277,7 @@ C;X13;K0
 C;X15;K"TTDesc"
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y19;K"barm"
 C;X2;K"armor"
 C;X3;K"Profile"
@@ -274,6 +292,7 @@ C;X13;K0
 C;X15;K"TTDesc"
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y20;K"bvar"
 C;X2;K"numVar"
 C;X3;K"Profile"
@@ -290,6 +309,7 @@ C;X14;K1
 C;X15;K10
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y21;K"bhps"
 C;X2;K"HP"
 C;X3;K"DestructableData"
@@ -306,6 +326,7 @@ C;X14;K0
 C;X15;K99999
 C;X16;K1
 C;X17;K1
+C;X19;K0
 C;X1;Y22;K"boch"
 C;X2;K"occH"
 C;X3;K"DestructableData"
@@ -321,6 +342,7 @@ C;X14;K0
 C;X15;K99999
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y23;K"bflh"
 C;X2;K"flyH"
 C;X3;K"DestructableData"
@@ -336,6 +358,7 @@ C;X14;K0
 C;X15;K99999
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y24;K"bfxr"
 C;X2;K"fixedRot"
 C;X3;K"Profile"
@@ -352,6 +375,7 @@ C;X14;K-1
 C;X15;K360
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y25;K"bsel"
 C;X2;K"selSize"
 C;X3;K"Profile"
@@ -368,6 +392,7 @@ C;X14;K0
 C;X15;K99999
 C;X16;K1
 C;X17;K1
+C;X19;K1
 C;X1;Y26;K"bmis"
 C;X2;K"minScale"
 C;X3;K"Profile"
@@ -384,6 +409,7 @@ C;X14;K0.1
 C;X15;K10
 C;X16;K1
 C;X17;K0
+C;X19;K1
 C;X1;Y27;K"bmas"
 C;X2;K"maxScale"
 C;X3;K"Profile"
@@ -400,6 +426,7 @@ C;X14;K0.1
 C;X15;K10
 C;X16;K1
 C;X17;K0
+C;X19;K1
 C;X1;Y28;K"bcpr"
 C;X2;K"canPlaceRandScale"
 C;X3;K"Profile"
@@ -413,6 +440,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y29;K"bmap"
 C;X2;K"maxPitch"
 C;X3;K"Profile"
@@ -429,6 +457,7 @@ C;X14;K0
 C;X15;K99999
 C;X16;K1
 C;X17;K1
+C;X19;K1
 C;X1;Y30;K"bmar"
 C;X2;K"maxRoll"
 C;X3;K"Profile"
@@ -445,6 +474,7 @@ C;X14;K0
 C;X15;K99999
 C;X16;K1
 C;X17;K1
+C;X19;K1
 C;X1;Y31;K"brad"
 C;X2;K"radius"
 C;X3;K"DestructableData"
@@ -460,6 +490,7 @@ C;X14;K0
 C;X15;K99999
 C;X16;K1
 C;X17;K1
+C;X19;K0
 C;X1;Y32;K"bfra"
 C;X2;K"fogRadius"
 C;X3;K"DestructableData"
@@ -475,6 +506,7 @@ C;X14;K0
 C;X15;K99999
 C;X16;K1
 C;X17;K1
+C;X19;K0
 C;X1;Y33;K"bfvi"
 C;X2;K"fogVis"
 C;X3;K"DestructableData"
@@ -488,6 +520,7 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
+C;X19;K0
 C;X1;Y34;K"bptx"
 C;X2;K"pathTex"
 C;X3;K"DestructableData"
@@ -504,6 +537,7 @@ C;X13;K1
 C;X15;K"TTDesc"
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y35;K"bptd"
 C;X2;K"pathTexDeath"
 C;X3;K"DestructableData"
@@ -520,6 +554,7 @@ C;X13;K1
 C;X15;K"TTDesc"
 C;X16;K0
 C;X17;K1
+C;X19;K1
 C;X1;Y36;K"bdsn"
 C;X2;K"deathSnd"
 C;X3;K"Profile"
@@ -534,7 +569,23 @@ C;X13;K1
 C;X15;K"TTDesc"
 C;X16;K0
 C;X17;K1
-C;X1;Y37;K"bshd"
+C;X19;K1
+C;X1;Y37;K"bsnd"
+C;X2;K"loopSound"
+C;X3;K"Profile"
+C;X4;K0
+C;X5;K"sound"
+C;X6;K"WESTRING_BEVAL_BSND"
+C;X7;K"daa00"
+C;X8;K"soundLabel"
+C;X11;K0
+C;X12;K0
+C;X13;K1
+C;X15;K"TTDesc"
+C;X16;K0
+C;X17;K1
+C;X19;K1
+C;X1;Y38;K"bshd"
 C;X2;K"shadow"
 C;X3;K"Profile"
 C;X4;K0
@@ -549,7 +600,8 @@ C;X13;K1
 C;X15;K"TTDesc"
 C;X16;K0
 C;X17;K1
-C;X1;Y38;K"bsmm"
+C;X19;K1
+C;X1;Y39;K"bsmm"
 C;X2;K"showInMM"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -562,7 +614,8 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
-C;X1;Y39;K"bmmr"
+C;X19;K1
+C;X1;Y40;K"bmmr"
 C;X2;K"MMRed"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -578,7 +631,8 @@ C;X14;K0
 C;X15;K255
 C;X16;K0
 C;X17;K1
-C;X1;Y40;K"bmmg"
+C;X19;K1
+C;X1;Y41;K"bmmg"
 C;X2;K"MMGreen"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -594,7 +648,8 @@ C;X14;K0
 C;X15;K255
 C;X16;K0
 C;X17;K1
-C;X1;Y41;K"bmmb"
+C;X19;K1
+C;X1;Y42;K"bmmb"
 C;X2;K"MMBlue"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -610,7 +665,8 @@ C;X14;K0
 C;X15;K255
 C;X16;K0
 C;X17;K1
-C;X1;Y42;K"bumm"
+C;X19;K1
+C;X1;Y43;K"bumm"
 C;X2;K"useMMColor"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -624,7 +680,8 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
-C;X1;Y43;K"bbut"
+C;X19;K1
+C;X1;Y44;K"bbut"
 C;X2;K"buildTime"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -639,7 +696,8 @@ C;X14;K1
 C;X15;K298
 C;X16;K0
 C;X17;K1
-C;X1;Y44;K"bret"
+C;X19;K0
+C;X1;Y45;K"bret"
 C;X2;K"repairTime"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -654,7 +712,8 @@ C;X14;K1
 C;X15;K10000
 C;X16;K0
 C;X17;K1
-C;X1;Y45;K"breg"
+C;X19;K0
+C;X1;Y46;K"breg"
 C;X2;K"goldRep"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -669,7 +728,8 @@ C;X14;K0
 C;X15;K100000
 C;X16;K0
 C;X17;K1
-C;X1;Y46;K"brel"
+C;X19;K0
+C;X1;Y47;K"brel"
 C;X2;K"lumberRep"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -684,7 +744,8 @@ C;X14;K0
 C;X15;K100000
 C;X16;K0
 C;X17;K1
-C;X1;Y47;K"busr"
+C;X19;K0
+C;X1;Y48;K"busr"
 C;X2;K"UserList"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -698,7 +759,8 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
-C;X1;Y48;K"bvcr"
+C;X19;K0
+C;X1;Y49;K"bvcr"
 C;X2;K"colorR"
 C;X3;K"Profile"
 C;X4;K0
@@ -714,7 +776,8 @@ C;X14;K0
 C;X15;K255
 C;X16;K0
 C;X17;K1
-C;X1;Y49;K"bvcg"
+C;X19;K1
+C;X1;Y50;K"bvcg"
 C;X2;K"colorG"
 C;X3;K"Profile"
 C;X4;K0
@@ -730,7 +793,8 @@ C;X14;K0
 C;X15;K255
 C;X16;K0
 C;X17;K1
-C;X1;Y50;K"bvcb"
+C;X19;K1
+C;X1;Y51;K"bvcb"
 C;X2;K"colorB"
 C;X3;K"Profile"
 C;X4;K0
@@ -746,7 +810,8 @@ C;X14;K0
 C;X15;K255
 C;X16;K0
 C;X17;K1
-C;X1;Y51;K"bgse"
+C;X19;K1
+C;X1;Y52;K"bgse"
 C;X2;K"selectable"
 C;X3;K"DestructableData"
 C;X4;K0
@@ -759,7 +824,8 @@ C;X12;K0
 C;X13;K0
 C;X16;K0
 C;X17;K1
-C;X1;Y52;K"bgsc"
+C;X19;K0
+C;X1;Y53;K"bgsc"
 C;X2;K"selcircsize"
 C;X3;K"Profile"
 C;X4;K0
@@ -774,7 +840,8 @@ C;X14;K1
 C;X15;K99999
 C;X16;K1
 C;X17;K1
-C;X1;Y53;K"bgpm"
+C;X19;K1
+C;X1;Y54;K"bgpm"
 C;X2;K"portraitmodel"
 C;X3;K"Profile"
 C;X4;K0
@@ -788,4 +855,5 @@ C;X12;K0
 C;X13;K1
 C;X16;K0
 C;X17;K1
+C;X19;K1
 E

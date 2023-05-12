@@ -2691,7 +2691,9 @@ Art=ReplaceableTextures\CommandButtons\BTNSacrificialDagger.blp
 Targetart=Abilities\Spells\Items\RitualDagger\RitualDaggerTarget.mdl
 Targetattach=origin
 Specialart=
-Specialattach=//-----------------------------------------------------------------------------
+Specialattach=
+
+//-----------------------------------------------------------------------------
 // FIRELORD
 //-----------------------------------------------------------------------------
 

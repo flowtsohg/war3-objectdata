@@ -48,11 +48,11 @@ Buffubertip="This unit has been controlled; it obeys a new master now."
 Name=Siphon Mana
 Tip=Siphon Mana - [|cffffcc00Level 1|r],Siphon Mana - [|cffffcc00Level 2|r],Siphon Mana - [|cffffcc00Level 3|r]
 Ubertip="Transfers mana between the Blood Mage and a target. Drains <AHdr,DataB1> mana per second from an enemy, or transfers <AHdr,DataE1> mana per second to an ally.|n|nSiphon Mana can push the Blood Mage's mana over its maximum value, though excess mana drains off rapidly if not used.|nLasts <AHdr,Dur1> seconds.","Transfers mana between the Blood Mage and a target. Drains <AHdr,DataB2> mana per second from an enemy, or transfers <AHdr,DataE2> mana per second to an ally.|n|nSiphon Mana can push the Blood Mage's mana over its maximum value, though excess mana drains off rapidly if not used.|nLasts <AHdr,Dur2> seconds.","Transfers mana between the Blood Mage and a target. Drains <AHdr,DataB3> mana per second from an enemy, or transfers <AHdr,DataE3> mana per second to an ally.|n|nSiphon Mana can push the Blood Mage's mana over its maximum value, though excess mana drains off rapidly if not used.|nLasts <AHdr,Dur3> seconds."
-Ubertip,custom,V1="Drains <AHdr,DataB1> mana per second from an enemy to the caster.","Drains <AHdr,DataB2> mana per second from an enemy to the caster.","Drains <AHdr,DataB3> mana per second from an enemy to the caster."
+Ubertip:custom,V1="Drains <AHdr,DataB1> mana per second from an enemy to the caster.","Drains <AHdr,DataB2> mana per second from an enemy to the caster.","Drains <AHdr,DataB3> mana per second from an enemy to the caster."
 Hotkey=N
 Researchtip="Learn Siphon Mana - [|cffffcc00Level %d|r]"
 Researchubertip="Transfers mana between the Blood Mage and a target. Drains mana from an enemy, or transfers mana to an ally.|n|nSiphon Mana can push the Blood Mage's mana over its maximum value, though excess mana drains off rapidly if not used.|nLasts <AHdr,Dur1> seconds.|n|n|cffffcc00Level 1|r - <AHdr,DataB1> mana drained per second. |n|cffffcc00Level 2|r - <AHdr,DataB2> mana drained per second. |n|cffffcc00Level 3|r - <AHdr,DataB3> mana drained per second." 
-Researchubertip,custom,V1="Drains mana from an enemy to the caster.|n|n|cffffcc00Level 1|r - <AHdr,DataB1> mana drained per second. |n|cffffcc00Level 2|r - <AHdr,DataB2> mana drained per second. |n|cffffcc00Level 3|r - <AHdr,DataB3> mana drained per second." 
+Researchubertip:custom,V1="Drains mana from an enemy to the caster.|n|n|cffffcc00Level 1|r - <AHdr,DataB1> mana drained per second. |n|cffffcc00Level 2|r - <AHdr,DataB2> mana drained per second. |n|cffffcc00Level 3|r - <AHdr,DataB3> mana drained per second." 
 Researchhotkey=N
 
 [Bdbb]

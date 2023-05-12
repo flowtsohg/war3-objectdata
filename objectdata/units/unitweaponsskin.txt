@@ -229,7 +229,7 @@ showUI2=1
 launchZ=60
 launchZ:hd=105
 projectileVisOffsetX:hd=0
-projectileVisOffsetY:hd=150
+projectileVisOffsetY:hd=50
 
 [hwt2]
 impactSwimZ=0
@@ -240,7 +240,7 @@ showUI2=1
 launchZ=60
 launchZ:hd=125
 projectileVisOffsetX:hd=0
-projectileVisOffsetY:hd=175
+projectileVisOffsetY:hd=110
 
 [hwt3]
 impactSwimZ=0
@@ -251,7 +251,7 @@ showUI2=1
 launchZ=60
 launchZ:hd=145
 projectileVisOffsetX:hd=0
-projectileVisOffsetY:hd=200
+projectileVisOffsetY:hd=110
 
 [halt]
 impactSwimZ=0
@@ -428,7 +428,7 @@ showUI2=1
 launchZ=60
 launchZ:hd=80
 projectileVisOffsetX:hd=0
-projectileVisOffsetY:hd=150
+projectileVisOffsetY:hd=110
 
 [Otch]
 impactSwimZ=0

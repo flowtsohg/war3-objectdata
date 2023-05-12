@@ -1,5 +1,5 @@
 ID;PWXL;N;E
-B;X26;Y778;D0
+B;X27;Y778;D0
 C;X1;Y1;K"ID"
 C;X2;K"field"
 C;X3;K"slk"
@@ -26,6 +26,7 @@ C;X23;K"useSpecific"
 C;X24;K"notSpecific"
 C;X25;K"version"
 C;X26;K"section"
+C;X27;K"netsafe"
 C;X1;Y2;K"anam"
 C;X2;K"Name"
 C;X3;K"Profile"
@@ -47,6 +48,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y3;K"ansf"
 C;X2;K"EditorSuffix"
 C;X3;K"Profile"
@@ -68,6 +70,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y4;K"aher"
 C;X2;K"hero"
 C;X3;K"AbilityData"
@@ -88,6 +91,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y5;K"aite"
 C;X2;K"item"
 C;X3;K"AbilityData"
@@ -108,6 +112,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y6;K"arac"
 C;X2;K"race"
 C;X3;K"AbilityData"
@@ -128,6 +133,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y7;K"abpx"
 C;X2;K"Buttonpos"
 C;X3;K"Profile"
@@ -149,6 +155,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y8;K"abpy"
 C;X2;K"Buttonpos"
 C;X3;K"Profile"
@@ -170,6 +177,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y9;K"aubx"
 C;X2;K"UnButtonpos"
 C;X3;K"Profile"
@@ -191,6 +199,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y10;K"auby"
 C;X2;K"UnButtonpos"
 C;X3;K"Profile"
@@ -212,6 +221,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y11;K"arpx"
 C;X2;K"Researchbuttonpos"
 C;X3;K"Profile"
@@ -233,6 +243,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y12;K"arpy"
 C;X2;K"Researchbuttonpos"
 C;X3;K"Profile"
@@ -254,6 +265,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y13;K"aart"
 C;X2;K"Art"
 C;X3;K"Profile"
@@ -275,6 +287,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y14;K"auar"
 C;X2;K"Unart"
 C;X3;K"Profile"
@@ -295,6 +308,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y15;K"arar"
 C;X2;K"ResearchArt"
 C;X3;K"Profile"
@@ -316,6 +330,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y16;K"acat"
 C;X2;K"CasterArt"
 C;X3;K"Profile"
@@ -335,6 +350,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y17;K"atat"
 C;X2;K"TargetArt"
 C;X3;K"Profile"
@@ -354,6 +370,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y18;K"asat"
 C;X2;K"SpecialArt"
 C;X3;K"Profile"
@@ -373,6 +390,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y19;K"aeat"
 C;X2;K"EffectArt"
 C;X3;K"Profile"
@@ -392,6 +410,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y20;K"aaea"
 C;X2;K"Areaeffectart"
 C;X3;K"Profile"
@@ -411,6 +430,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y21;K"alig"
 C;X2;K"LightningEffect"
 C;X3;K"Profile"
@@ -430,6 +450,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y22;K"amat"
 C;X2;K"Missileart"
 C;X3;K"Profile"
@@ -449,6 +470,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y23;K"amsp"
 C;X2;K"Missilespeed"
 C;X3;K"Profile"
@@ -470,6 +492,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y24;K"amac"
 C;X2;K"Missilearc"
 C;X3;K"Profile"
@@ -491,6 +514,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y25;K"amho"
 C;X2;K"MissileHoming"
 C;X3;K"Profile"
@@ -510,6 +534,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y26;K"atac"
 C;X2;K"Targetattachcount"
 C;X3;K"Profile"
@@ -531,6 +556,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y27;K"ata0"
 C;X2;K"Targetattach"
 C;X3;K"Profile"
@@ -551,6 +577,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y28;K"ata1"
 C;X2;K"Targetattach1"
 C;X3;K"Profile"
@@ -571,6 +598,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y29;K"ata2"
 C;X2;K"Targetattach2"
 C;X3;K"Profile"
@@ -591,6 +619,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y30;K"ata3"
 C;X2;K"Targetattach3"
 C;X3;K"Profile"
@@ -611,6 +640,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y31;K"ata4"
 C;X2;K"Targetattach4"
 C;X3;K"Profile"
@@ -631,6 +661,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y32;K"ata5"
 C;X2;K"Targetattach5"
 C;X3;K"Profile"
@@ -651,6 +682,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y33;K"acac"
 C;X2;K"Casterattachcount"
 C;X3;K"Profile"
@@ -672,6 +704,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y34;K"acap"
 C;X2;K"Casterattach"
 C;X3;K"Profile"
@@ -692,6 +725,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y35;K"aca1"
 C;X2;K"Casterattach1"
 C;X3;K"Profile"
@@ -712,6 +746,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y36;K"aspt"
 C;X2;K"Specialattach"
 C;X3;K"Profile"
@@ -732,6 +767,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y37;K"aani"
 C;X2;K"Animnames"
 C;X3;K"Profile"
@@ -750,6 +786,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y38;K"atp1"
 C;X2;K"Tip"
 C;X3;K"Profile"
@@ -771,6 +808,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y39;K"aut1"
 C;X2;K"Untip"
 C;X3;K"Profile"
@@ -792,6 +830,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y40;K"aub1"
 C;X2;K"Ubertip"
 C;X3;K"Profile"
@@ -813,6 +852,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y41;K"auu1"
 C;X2;K"Unubertip"
 C;X3;K"Profile"
@@ -834,6 +874,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y42;K"aret"
 C;X2;K"Researchtip"
 C;X3;K"Profile"
@@ -855,6 +896,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y43;K"arut"
 C;X2;K"Researchubertip"
 C;X3;K"Profile"
@@ -876,6 +918,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y44;K"arhk"
 C;X2;K"Researchhotkey"
 C;X3;K"Profile"
@@ -895,6 +938,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y45;K"ahky"
 C;X2;K"Hotkey"
 C;X3;K"Profile"
@@ -914,6 +958,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y46;K"auhk"
 C;X2;K"Unhotkey"
 C;X3;K"Profile"
@@ -933,6 +978,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y47;K"areq"
 C;X2;K"Requires"
 C;X3;K"Profile"
@@ -952,6 +998,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y48;K"arqa"
 C;X2;K"Requiresamount"
 C;X3;K"Profile"
@@ -972,6 +1019,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y49;K"achd"
 C;X2;K"checkDep"
 C;X3;K"AbilityData"
@@ -991,6 +1039,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y50;K"apri"
 C;X2;K"priority"
 C;X3;K"AbilityData"
@@ -1012,6 +1061,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y51;K"aord"
 C;X2;K"Order"
 C;X3;K"Profile"
@@ -1032,6 +1082,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y52;K"aoru"
 C;X2;K"Unorder"
 C;X3;K"Profile"
@@ -1052,6 +1103,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y53;K"aoro"
 C;X2;K"Orderon"
 C;X3;K"Profile"
@@ -1072,6 +1124,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y54;K"aorf"
 C;X2;K"Orderoff"
 C;X3;K"Profile"
@@ -1092,6 +1145,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y55;K"aefs"
 C;X2;K"Effectsound"
 C;X3;K"Profile"
@@ -1111,6 +1165,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y56;K"aefl"
 C;X2;K"Effectsoundlooped"
 C;X3;K"Profile"
@@ -1130,6 +1185,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y57;K"alev"
 C;X2;K"levels"
 C;X3;K"AbilityData"
@@ -1152,6 +1208,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y58;K"arlv"
 C;X2;K"reqLevel"
 C;X3;K"AbilityData"
@@ -1174,6 +1231,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y59;K"alsk"
 C;X2;K"levelSkip"
 C;X3;K"AbilityData"
@@ -1196,6 +1254,7 @@ C;X20;K1
 C;X21;K0
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y60;K"atar"
 C;X2;K"targs"
 C;X3;K"AbilityData"
@@ -1215,6 +1274,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y61;K"acas"
 C;X2;K"Cast"
 C;X3;K"AbilityData"
@@ -1237,6 +1297,7 @@ C;X21;K1
 C;X22;K1
 C;X24;K"Arpb,Arpl,Arpm,ANpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y62;K"adur"
 C;X2;K"Dur"
 C;X3;K"AbilityData"
@@ -1258,6 +1319,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y63;K"ahdu"
 C;X2;K"HeroDur"
 C;X3;K"AbilityData"
@@ -1279,6 +1341,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y64;K"acdn"
 C;X2;K"Cool"
 C;X3;K"AbilityData"
@@ -1300,6 +1363,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y65;K"amcs"
 C;X2;K"Cost"
 C;X3;K"AbilityData"
@@ -1321,6 +1385,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y66;K"aare"
 C;X2;K"Area"
 C;X3;K"AbilityData"
@@ -1342,6 +1407,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y67;K"aran"
 C;X2;K"Rng"
 C;X3;K"AbilityData"
@@ -1363,6 +1429,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y68;K"abuf"
 C;X2;K"BuffID"
 C;X3;K"AbilityData"
@@ -1382,6 +1449,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y69;K"aeff"
 C;X2;K"EfctID"
 C;X3;K"AbilityData"
@@ -1401,6 +1469,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K0
 C;X1;Y70;K"Hbz1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1423,6 +1492,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbz,ACbz,ANrf,ACrf"
 C;X25;K1
+C;X27;K0
 C;X1;Y71;K"Hbz2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1445,6 +1515,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbz,ACbz,ANrf,ACrf"
 C;X25;K1
+C;X27;K0
 C;X1;Y72;K"Hbz3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1467,6 +1538,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbz,ACbz,ANrf,ACrf"
 C;X25;K1
+C;X27;K0
 C;X1;Y73;K"Hbz4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1489,6 +1561,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbz,ACbz,ANrf,ACrf"
 C;X25;K1
+C;X27;K0
 C;X1;Y74;K"Hbz5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1511,6 +1584,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbz,ACbz,ANrf,ACrf"
 C;X25;K1
+C;X27;K0
 C;X1;Y75;K"Hbz6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1533,6 +1607,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbz,ACbz,ANrf,ACrf"
 C;X25;K1
+C;X27;K0
 C;X1;Y76;K"Hab1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1555,6 +1630,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHab,ACba,AIba"
 C;X25;K1
+C;X27;K0
 C;X1;Y77;K"Hab2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1577,6 +1653,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHab,ACba,AIba"
 C;X25;K1
+C;X27;K0
 C;X1;Y78;K"Hmt1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1599,6 +1676,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHmt,AImt"
 C;X25;K1
+C;X27;K0
 C;X1;Y79;K"Hmt2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1621,6 +1699,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHmt,AImt"
 C;X25;K1
+C;X27;K0
 C;X1;Y80;K"Hmt3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1641,6 +1720,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHmt,AImt,AUds"
 C;X25;K1
+C;X27;K0
 C;X1;Y81;K"Hwe1"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -1661,6 +1741,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHwe,AEst,ANsg,ANsq,ANsw,ANwm,AOsw,AOwd,Anwm,ACwe,AHpx,ACtn,ANlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y82;K"Hwe2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1683,6 +1764,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHwe,AEst,ANsg,ANsq,ANsw,ANwm,AOsw,AOwd,Anwm,ACwe,AHpx,ACtn,ANlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y83;K"Oww1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1705,6 +1787,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOww"
 C;X25;K1
+C;X27;K0
 C;X1;Y84;K"Oww2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1727,6 +1810,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOww"
 C;X25;K1
+C;X27;K0
 C;X1;Y85;K"Ocr1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1749,6 +1833,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOcr,ACct,ANdb"
 C;X25;K1
+C;X27;K0
 C;X1;Y86;K"Ocr2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1771,6 +1856,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOcr,ACct,ANdb"
 C;X25;K1
+C;X27;K0
 C;X1;Y87;K"Ocr3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1793,6 +1879,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOcr,ACct,ANdb"
 C;X25;K1
+C;X27;K0
 C;X1;Y88;K"Ocr4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1815,6 +1902,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOcr,ACct,ANdb"
 C;X25;K1
+C;X27;K0
 C;X1;Y89;K"Ocr5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1837,6 +1925,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOcr,ACct,ANdb"
 C;X25;K1
+C;X27;K0
 C;X1;Y90;K"Ocr6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1859,6 +1948,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOcr,ACct,ANdb"
 C;X25;K1
+C;X27;K0
 C;X1;Y91;K"Omi1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1881,6 +1971,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOmi"
 C;X25;K1
+C;X27;K0
 C;X1;Y92;K"Omi2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1903,6 +1994,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOmi"
 C;X25;K1
+C;X27;K0
 C;X1;Y93;K"Omi3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1925,6 +2017,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOmi"
 C;X25;K1
+C;X27;K0
 C;X1;Y94;K"Omi4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1947,6 +2040,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOmi"
 C;X25;K1
+C;X27;K0
 C;X1;Y95;K"Owk1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1969,6 +2063,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOwk"
 C;X25;K1
+C;X27;K0
 C;X1;Y96;K"Owk2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -1991,6 +2086,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOwk"
 C;X25;K1
+C;X27;K0
 C;X1;Y97;K"Owk3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2013,6 +2109,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOwk"
 C;X25;K1
+C;X27;K0
 C;X1;Y98;K"Owk4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2035,6 +2132,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOwk,ANwk"
 C;X25;K1
+C;X27;K0
 C;X1;Y99;K"Owk5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2043,7 +2141,7 @@ C;X5;K4
 C;X6;K5
 C;X7;K"data"
 C;X8;K"WESTRING_AEVAL_OWK5"
-C;X9;K"x0a004"
+C;X9;K"x0a005"
 C;X10;K"bool"
 C;X13;K0
 C;X14;K0
@@ -2057,6 +2155,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOwk,ANwk"
 C;X25;K1
+C;X27;K0
 C;X1;Y100;K"Uan1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2079,6 +2178,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUan"
 C;X25;K1
+C;X27;K0
 C;X1;Y101;K"Uan3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2101,6 +2201,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUan,ACad,AIan,AInd"
 C;X25;K1
+C;X27;K0
 C;X1;Y102;K"Udc1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2123,6 +2224,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUdc,ACdc"
 C;X25;K1
+C;X27;K0
 C;X1;Y103;K"Udp1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2145,6 +2247,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUdp,AUdr,Aste"
 C;X25;K1
+C;X27;K0
 C;X1;Y104;K"Udp2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2167,6 +2270,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUdp,AUdr,Aste"
 C;X25;K1
+C;X27;K0
 C;X1;Y105;K"Udp3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2187,6 +2291,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUdp,AUdr,Aste"
 C;X25;K1
+C;X27;K0
 C;X1;Y106;K"Udp4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2207,6 +2312,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUdp,AUdr,Aste"
 C;X25;K1
+C;X27;K0
 C;X1;Y107;K"Udp5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2227,6 +2333,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUdp,AUdr,Aste,AIdg,AIg2"
 C;X25;K1
+C;X27;K0
 C;X1;Y108;K"Uau1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2249,6 +2356,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUau,AIau,ACua"
 C;X25;K1
+C;X27;K0
 C;X1;Y109;K"Uau2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2271,6 +2379,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUau,AIau,ACua"
 C;X25;K1
+C;X27;K0
 C;X1;Y110;K"Uau3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2293,6 +2402,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUau,AIau,ACua"
 C;X25;K1
+C;X27;K0
 C;X1;Y111;K"Eev1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2315,6 +2425,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEev,AIev,ACev,ACes"
 C;X25;K1
+C;X27;K0
 C;X1;Y112;K"Eim1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2337,6 +2448,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEim,ACim,ANpi,Apmf,Apig"
 C;X25;K1
+C;X27;K0
 C;X1;Y113;K"Eim2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2359,6 +2471,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEim,ACim,ANpi,Apmf,Apig"
 C;X25;K1
+C;X27;K0
 C;X1;Y114;K"Eim3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2381,6 +2494,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEim,ACim,ANpi,Apmf,Apig"
 C;X25;K1
+C;X27;K0
 C;X1;Y115;K"Emb1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2403,6 +2517,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEmb,Amnb,Ambd"
 C;X25;K1
+C;X27;K0
 C;X1;Y116;K"Emb2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2425,6 +2540,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEmb,Amnb,Ambd"
 C;X25;K1
+C;X27;K0
 C;X1;Y117;K"Emb3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2447,6 +2563,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEmb,Amnb,Ambd"
 C;X25;K1
+C;X27;K0
 C;X1;Y118;K"Eme1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2467,6 +2584,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEme,AEIl,AEvi,Abrf,Arav,Amrf,Astn,Aspx,Aave,Abur,Abu2,Abu3,Aetf,Acpf,Aphx,Asb1,Asb2,Asb3,ANcr,ANrg,ANg1,ANg2,ANg3"
 C;X25;K1
+C;X27;K0
 C;X1;Y119;K"Eme2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2489,6 +2607,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEme,AEIl,AEvi,Abrf,Arav,Amrf,Astn,Aspx,Aave,Abur,Abu2,Abu3,Aetf,Acpf,Aphx,Asb1,Asb2,Asb3,ANcr,ANrg,ANg1,ANg2,ANg3"
 C;X25;K1
+C;X27;K0
 C;X1;Y120;K"Eme3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2511,6 +2630,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEme,AEIl,AEvi,Abrf,Arav,Amrf,Astn,Aspx,Aave,Abur,Abu2,Abu3,Aetf,Acpf,Aphx,Asb1,Asb2,Asb3,ANcr,ANrg,ANg1,ANg2,ANg3"
 C;X25;K1
+C;X27;K0
 C;X1;Y121;K"Eme4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2533,6 +2653,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEme,AEIl,AEvi,Abrf,Arav,Amrf,Astn,Aspx,Aave,Abur,Abu2,Abu3,Aetf,Acpf,Aphx,ANcr,ANrg,ANg1,ANg2,ANg3"
 C;X25;K1
+C;X27;K0
 C;X1;Y122;K"Eme5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2555,6 +2676,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEme,AEIl,AEvi"
 C;X25;K1
+C;X27;K0
 C;X1;Y123;K"Ncr5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2577,6 +2699,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANcr"
 C;X25;K1
+C;X27;K0
 C;X1;Y124;K"Ncr6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2599,6 +2722,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANcr"
 C;X25;K1
+C;X27;K0
 C;X1;Y125;K"Nrg5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2621,6 +2745,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANrg,ANg1,ANg2,ANg3"
 C;X25;K1
+C;X27;K0
 C;X1;Y126;K"Nrg6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2643,6 +2768,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANrg,ANg1,ANg2,ANg3"
 C;X25;K1
+C;X27;K0
 C;X1;Y127;K"ave5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2665,6 +2791,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aave,Astn"
 C;X25;K1
+C;X27;K0
 C;X1;Y128;K"Emeu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -2685,6 +2812,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEme,AEIl,AEvi,Abrf,Arav,Amrf,Astn,Aspx,Aave,Abur,Abu2,Abu3,Aetf,Acpf,Aphx,Asb1,Asb2,Asb3,ANcr,ANrg,ANg1,ANg2,ANg3"
 C;X25;K1
+C;X27;K0
 C;X1;Y129;K"Usl1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2707,6 +2835,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUsl,ACsl"
 C;X25;K1
+C;X27;K0
 C;X1;Y130;K"Uav1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2729,6 +2858,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUav,AIav,ACvp"
 C;X25;K1
+C;X27;K0
 C;X1;Y131;K"Ucs1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2751,6 +2881,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUcs,ANbf,ACbc,ACbf,ACca,ACcv"
 C;X25;K1
+C;X27;K0
 C;X1;Y132;K"Ucs2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2773,6 +2904,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUcs,ANbf,ACbc,ACbf,ACca,ACcv"
 C;X25;K1
+C;X27;K0
 C;X1;Y133;K"Ucs3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2795,6 +2927,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUcs,ANbf,ACbc,ACbf,ACca,ACcv,ANfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y134;K"Ucs4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2817,6 +2950,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUcs,ANbf,ACbc,ACbf,ACca,ACcv,ANfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y135;K"Uin1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2839,6 +2973,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUin,ANin,SNin,AIin"
 C;X25;K1
+C;X27;K0
 C;X1;Y136;K"Uin2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2861,6 +2996,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUin,ANin,SNin,AIin"
 C;X25;K1
+C;X27;K0
 C;X1;Y137;K"Uin3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2883,6 +3019,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUin,ANin,SNin,AIin"
 C;X25;K1
+C;X27;K0
 C;X1;Y138;K"Uin4"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -2903,6 +3040,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUin,ANin,SNin,AIin"
 C;X25;K1
+C;X27;K0
 C;X1;Y139;K"Ocl1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2925,6 +3063,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOcl,AOhw,ACcl,AChv,ANfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y140;K"Ocl2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2947,6 +3086,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOcl,AOhw,ACcl,AChv,ANfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y141;K"Ocl3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2969,6 +3109,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOcl,AOhw,ACcl,AChv"
 C;X25;K1
+C;X27;K0
 C;X1;Y142;K"Oeq1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -2991,6 +3132,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOeq,SNeq"
 C;X25;K1
+C;X27;K0
 C;X1;Y143;K"Oeq2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3013,6 +3155,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOeq,SNeq"
 C;X25;K1
+C;X27;K0
 C;X1;Y144;K"Oeq3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3035,6 +3178,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOeq,SNeq"
 C;X25;K1
+C;X27;K0
 C;X1;Y145;K"Oeq4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3057,6 +3201,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOeq,SNeq"
 C;X25;K1
+C;X27;K0
 C;X1;Y146;K"Ofs1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3077,6 +3222,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOfs"
 C;X25;K1
+C;X27;K0
 C;X1;Y147;K"Osf1"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -3097,6 +3243,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOsf,ACsf,ACs9,AIsh"
 C;X25;K1
+C;X27;K0
 C;X1;Y148;K"Osf2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3119,6 +3266,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOsf,ACsf,ACs9,AIsh"
 C;X25;K1
+C;X27;K0
 C;X1;Y149;K"Eer1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3141,6 +3289,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEer,Aenr,Aenw"
 C;X25;K1
+C;X27;K0
 C;X1;Y150;K"Efn1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3163,6 +3312,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEfn,ACfr"
 C;X25;K1
+C;X27;K0
 C;X1;Y151;K"Efnu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -3183,6 +3333,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEfn,ACfr"
 C;X25;K1
+C;X27;K0
 C;X1;Y152;K"Eah1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3205,6 +3356,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEah"
 C;X25;K1
+C;X27;K0
 C;X1;Y153;K"Eah2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3227,6 +3379,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEah"
 C;X25;K1
+C;X27;K0
 C;X1;Y154;K"Etq1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3249,6 +3402,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEtq"
 C;X25;K1
+C;X27;K0
 C;X1;Y155;K"Etq2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3271,6 +3425,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEtq"
 C;X25;K1
+C;X27;K0
 C;X1;Y156;K"Etq3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3293,6 +3448,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEtq"
 C;X25;K1
+C;X27;K0
 C;X1;Y157;K"Etq4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3315,6 +3471,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEtq"
 C;X25;K1
+C;X27;K0
 C;X1;Y158;K"Udd1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3337,6 +3494,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUdd,SNdd"
 C;X25;K1
+C;X27;K0
 C;X1;Y159;K"Udd2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3359,6 +3517,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUdd,SNdd"
 C;X25;K1
+C;X27;K0
 C;X1;Y160;K"Ufa1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3381,6 +3540,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUfa,AUfu,ACfa"
 C;X25;K1
+C;X27;K0
 C;X1;Y161;K"Ufa2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3403,6 +3563,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUfa,AUfu,ACfa"
 C;X25;K1
+C;X27;K0
 C;X1;Y162;K"Ufn1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3425,6 +3586,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUfn,ACfn"
 C;X25;K1
+C;X27;K0
 C;X1;Y163;K"Ufn2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3447,6 +3609,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUfn,ACfn"
 C;X25;K1
+C;X27;K0
 C;X1;Y164;K"Ufn5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3491,6 +3654,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHfa,ACsa"
 C;X25;K1
+C;X27;K0
 C;X1;Y166;K"Esf1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3513,6 +3677,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsf,AEsb,ANmo,ACmo"
 C;X25;K1
+C;X27;K0
 C;X1;Y167;K"Esf2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3535,6 +3700,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsf,AEsb,ANmo,ACmo"
 C;X25;K1
+C;X27;K0
 C;X1;Y168;K"Esf3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3557,6 +3723,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsf,AEsb,ANmo,ACmo"
 C;X25;K1
+C;X27;K0
 C;X1;Y169;K"Ear1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3579,6 +3746,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEar,AIar,ACat"
 C;X25;K1
+C;X27;K0
 C;X1;Y170;K"Ear2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3601,6 +3769,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEar,AIar,ACat,ACac,AIcd,Aakb"
 C;X25;K1
+C;X27;K0
 C;X1;Y171;K"Ear3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3623,6 +3792,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEar,AIar,ACat,ACac,AIcd,Aakb"
 C;X25;K1
+C;X27;K0
 C;X1;Y172;K"Ear4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3645,6 +3815,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEar,AIar,ACat,ACac,AIcd,Aakb"
 C;X25;K1
+C;X27;K0
 C;X1;Y173;K"Hav1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3667,6 +3838,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHav"
 C;X25;K1
+C;X27;K0
 C;X1;Y174;K"Hav2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3689,6 +3861,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHav"
 C;X25;K1
+C;X27;K0
 C;X1;Y175;K"Hav3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3711,6 +3884,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHav"
 C;X25;K1
+C;X27;K0
 C;X1;Y176;K"Hav4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3733,6 +3907,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHav"
 C;X25;K1
+C;X27;K0
 C;X1;Y177;K"Hbh1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3755,6 +3930,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbh,ACbh"
 C;X25;K1
+C;X27;K0
 C;X1;Y178;K"Hbh2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3777,6 +3953,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbh,ACbh"
 C;X25;K1
+C;X27;K0
 C;X1;Y179;K"Hbh3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3799,6 +3976,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbh,ACbh"
 C;X25;K1
+C;X27;K0
 C;X1;Y180;K"Hbh4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3821,6 +3999,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbh,ACbh"
 C;X25;K1
+C;X27;K0
 C;X1;Y181;K"Hbh5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3843,6 +4022,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbh,ACbh,ANbh,ANb2,AIbx"
 C;X25;K1
+C;X27;K0
 C;X1;Y182;K"Htb1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3865,6 +4045,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHtb,ANfb,Awfb,ACfb,ACcb"
 C;X25;K1
+C;X27;K0
 C;X1;Y183;K"Htc1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3887,6 +4068,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHtc"
 C;X25;K1
+C;X27;K0
 C;X1;Y184;K"Htc2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3909,6 +4091,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHtc"
 C;X25;K1
+C;X27;K0
 C;X1;Y185;K"Htc3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3931,6 +4114,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHtc"
 C;X25;K1
+C;X27;K0
 C;X1;Y186;K"Htc4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3953,6 +4137,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHtc"
 C;X25;K1
+C;X27;K0
 C;X1;Y187;K"Htc5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -3997,6 +4182,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHad,AIad,ACav"
 C;X25;K1
+C;X27;K0
 C;X1;Y189;K"Had2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4019,6 +4205,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHad,AIad,ACav"
 C;X25;K1
+C;X27;K0
 C;X1;Y190;K"Hds1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4041,6 +4228,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHds"
 C;X25;K1
+C;X27;K0
 C;X1;Y191;K"Hhb1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4063,6 +4251,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHhb"
 C;X25;K1
+C;X27;K0
 C;X1;Y192;K"Hre1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4085,6 +4274,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHre,AIrs"
 C;X25;K1
+C;X27;K0
 C;X1;Y193;K"Hre2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4105,6 +4295,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUan,AHre,ACad,AIan,AIrs,APrl,APrr"
 C;X25;K1
+C;X27;K0
 C;X1;Y194;K"Hca1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4127,6 +4318,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHca,ACcw,ANfa"
 C;X25;K1
+C;X27;K0
 C;X1;Y195;K"Hca2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4149,6 +4341,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHca,ACcw,ANfa"
 C;X25;K1
+C;X27;K0
 C;X1;Y196;K"Hca3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4171,6 +4364,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHca,ACcw,ANfa"
 C;X25;K1
+C;X27;K0
 C;X1;Y197;K"Hca4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4191,6 +4385,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHca,ACcw,ANfa"
 C;X25;K1
+C;X27;K0
 C;X1;Y198;K"Oae1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4213,6 +4408,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOae,AIae,SCae"
 C;X25;K1
+C;X27;K0
 C;X1;Y199;K"Oae2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4235,6 +4431,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOae,AIae,SCae"
 C;X25;K1
+C;X27;K0
 C;X1;Y200;K"Ore1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4257,6 +4454,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOre,ACrn,ANrn"
 C;X25;K1
+C;X27;K0
 C;X1;Y201;K"Osh1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4279,6 +4477,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOsh,ACsh,ACst"
 C;X25;K1
+C;X27;K0
 C;X1;Y202;K"Osh2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4301,6 +4500,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOsh,ACsh,ACst"
 C;X25;K1
+C;X27;K0
 C;X1;Y203;K"Osh3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4323,6 +4523,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOsh,ACsh,ACst"
 C;X25;K1
+C;X27;K0
 C;X1;Y204;K"Osh4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4345,6 +4546,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AOsh,ACsh,ACst"
 C;X25;K1
+C;X27;K0
 C;X1;Y205;K"Nfd1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4367,6 +4569,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANfd"
 C;X25;K1
+C;X27;K0
 C;X1;Y206;K"Nfd2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4389,6 +4592,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANfd"
 C;X25;K1
+C;X27;K0
 C;X1;Y207;K"Nfd3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4411,6 +4615,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANfd"
 C;X25;K1
+C;X27;K0
 C;X1;Y208;K"Ndp1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4431,6 +4636,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdp"
 C;X25;K1
+C;X27;K0
 C;X1;Y209;K"Ndp2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4453,6 +4659,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdp"
 C;X25;K1
+C;X27;K0
 C;X1;Y210;K"Ndp3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4475,6 +4682,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdp"
 C;X25;K1
+C;X27;K0
 C;X1;Y211;K"Nrc1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4495,6 +4703,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANrc"
 C;X25;K1
+C;X27;K0
 C;X1;Y212;K"Nrc2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4517,6 +4726,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANrc"
 C;X25;K1
+C;X27;K0
 C;X1;Y213;K"Ams1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4539,6 +4749,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aams,ACam"
 C;X25;K1
+C;X27;K0
 C;X1;Y214;K"Ams2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4561,6 +4772,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aams,ACam"
 C;X25;K1
+C;X27;K0
 C;X1;Y215;K"Ams3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4582,6 +4794,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aams,ACam,AIxs"
 C;X25;K1
+C;X27;K0
 C;X1;Y216;K"Ams4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4604,6 +4817,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aams,ACam,AIxs,Aam2"
 C;X25;K1
+C;X27;K0
 C;X1;Y217;K"Apl1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4626,6 +4840,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aapl,Aap1,Aap2,Aap3,Aap4"
 C;X25;K1
+C;X27;K0
 C;X1;Y218;K"Apl2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4648,6 +4863,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aapl,Aap1,Aap2,Aap3,Aap4"
 C;X25;K1
+C;X27;K0
 C;X1;Y219;K"Apl3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4670,6 +4886,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aapl,Aap1,Aap2,Aap3,Aap4"
 C;X25;K1
+C;X27;K0
 C;X1;Y220;K"Aplu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -4690,6 +4907,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aapl,Aap1,Aap2,Aap3,Aap4"
 C;X25;K1
+C;X27;K0
 C;X1;Y221;K"Oar1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4712,6 +4930,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aoar,ACnr,Aabr"
 C;X25;K1
+C;X27;K0
 C;X1;Y222;K"Oar2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4734,6 +4953,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aoar,ACnr,Aabr"
 C;X25;K1
+C;X27;K0
 C;X1;Y223;K"Akb1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4756,6 +4976,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aakb"
 C;X25;K1
+C;X27;K0
 C;X1;Y224;K"Adm1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4778,6 +4999,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aadm,ACdm,Adis,Adsm,Adch"
 C;X25;K1
+C;X27;K0
 C;X1;Y225;K"Adm2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4800,6 +5022,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aadm,ACdm,Adis,Adsm,Adch"
 C;X25;K1
+C;X27;K0
 C;X1;Y226;K"Btl1"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -4820,6 +5043,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Abtl,Sbtl"
 C;X25;K1
+C;X27;K0
 C;X1;Y227;K"Btl2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4842,6 +5066,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Abtl,Sbtl"
 C;X25;K1
+C;X27;K0
 C;X1;Y228;K"Bli1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4864,6 +5089,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Abds,Abdl,Abgs,Abgl,Ablp"
 C;X25;K1
+C;X27;K0
 C;X1;Y229;K"Bli2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4886,6 +5112,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Abds,Abdl,Abgs,Abgl,Ablp"
 C;X25;K1
+C;X27;K0
 C;X1;Y230;K"Bgm1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4908,6 +5135,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Abgm"
 C;X25;K1
+C;X27;K0
 C;X1;Y231;K"Bgm2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4930,6 +5158,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Abgm"
 C;X25;K1
+C;X27;K0
 C;X1;Y232;K"Bgm3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4952,6 +5181,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Abgm"
 C;X25;K1
+C;X27;K0
 C;X1;Y233;K"Bgm4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4974,6 +5204,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Abgm"
 C;X25;K1
+C;X27;K0
 C;X1;Y234;K"Blo1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -4996,6 +5227,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ablo,ACbl,Afzy"
 C;X25;K1
+C;X27;K0
 C;X1;Y235;K"Blo2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5018,6 +5250,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ablo,ACbl.Afzy"
 C;X25;K1
+C;X27;K0
 C;X1;Y236;K"Blo3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5040,6 +5273,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ablo,ACbl,Afzy"
 C;X25;K1
+C;X27;K0
 C;X1;Y237;K"Can1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5062,6 +5296,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acan,ACcn"
 C;X25;K1
+C;X27;K0
 C;X1;Y238;K"Can2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5084,6 +5319,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acan,ACcn"
 C;X25;K1
+C;X27;K0
 C;X1;Y239;K"Car1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5106,6 +5342,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Abun,Advc,Sch2,Sch3,Sch4,Sch5,Aenc"
 C;X25;K1
+C;X27;K0
 C;X1;Y240;K"Dev2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5128,6 +5365,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Advc"
 C;X25;K1
+C;X27;K0
 C;X1;Y241;K"Dev3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5150,6 +5388,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Advc"
 C;X25;K1
+C;X27;K0
 C;X1;Y242;K"Chd1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5172,6 +5411,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Achd"
 C;X25;K1
+C;X27;K0
 C;X1;Y243;K"Chd2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5194,6 +5434,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Achd"
 C;X25;K1
+C;X27;K0
 C;X1;Y244;K"Chd3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5216,6 +5457,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Achd"
 C;X25;K1
+C;X27;K0
 C;X1;Y245;K"Cha1"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -5236,6 +5478,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acha,Sca1,Sca2,Sca3,Sca4,Sca5,Sca6,Sbsk,Srtt"
 C;X25;K1
+C;X27;K0
 C;X1;Y246;K"Cri1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5258,6 +5501,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acri,Scri,ACcr"
 C;X25;K1
+C;X27;K0
 C;X1;Y247;K"Cri2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5280,6 +5524,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acri,Scri,ACcr"
 C;X25;K1
+C;X27;K0
 C;X1;Y248;K"Cri3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5302,6 +5547,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acri,Scri,ACcr"
 C;X25;K1
+C;X27;K0
 C;X1;Y249;K"Crs"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5324,6 +5570,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acrs,ACcs"
 C;X25;K1
+C;X27;K0
 C;X1;Y250;K"Dda1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5346,6 +5593,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adda,Amnx,Amnz,Asds,Auco"
 C;X25;K1
+C;X27;K0
 C;X1;Y251;K"Dda2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5368,6 +5616,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adda,Amnx,Amnz,Asds,Auco"
 C;X25;K1
+C;X27;K0
 C;X1;Y252;K"Dda3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5390,6 +5639,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adda,Amnx,Amnz,Asds,Auco"
 C;X25;K1
+C;X27;K0
 C;X1;Y253;K"Dda4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5412,6 +5662,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adda,Amnx,Amnz,Asds,Auco"
 C;X25;K1
+C;X27;K0
 C;X1;Y254;K"Sds1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5434,6 +5685,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asds"
 C;X25;K1
+C;X27;K0
 C;X1;Y255;K"Sds6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5456,6 +5708,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asds,Asdg,Asd2,Asd3"
 C;X25;K1
+C;X27;K0
 C;X1;Y256;K"Uco5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5478,6 +5731,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Auco"
 C;X25;K1
+C;X27;K0
 C;X1;Y257;K"Uco6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5500,6 +5754,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Auco"
 C;X25;K1
+C;X27;K0
 C;X1;Y258;K"Def1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5514,7 +5769,7 @@ C;X13;K0
 C;X14;K1
 C;X15;K0
 C;X16;K0
-C;X17;K100
+C;X17;K10
 C;X18;K0
 C;X19;K1
 C;X20;K1
@@ -5522,6 +5777,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adef,Amdf,AIdd"
 C;X25;K1
+C;X27;K0
 C;X1;Y259;K"Def2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5536,7 +5792,7 @@ C;X13;K0
 C;X14;K1
 C;X15;K0
 C;X16;K0
-C;X17;K100
+C;X17;K10
 C;X18;K0
 C;X19;K1
 C;X20;K1
@@ -5544,6 +5800,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adef,Amdf,AIdd"
 C;X25;K1
+C;X27;K0
 C;X1;Y260;K"Def3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5558,7 +5815,7 @@ C;X13;K0
 C;X14;K1
 C;X15;K0
 C;X16;K0
-C;X17;K100
+C;X17;K10
 C;X18;K0
 C;X19;K1
 C;X20;K1
@@ -5566,6 +5823,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adef,Amdf,AIdd"
 C;X25;K1
+C;X27;K0
 C;X1;Y261;K"Def4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5580,7 +5838,7 @@ C;X13;K0
 C;X14;K1
 C;X15;K0
 C;X16;K0
-C;X17;K100
+C;X17;K10
 C;X18;K0
 C;X19;K1
 C;X20;K1
@@ -5588,6 +5846,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adef,Amdf,AIdd"
 C;X25;K1
+C;X27;K0
 C;X1;Y262;K"Def5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5602,7 +5861,7 @@ C;X13;K0
 C;X14;K1
 C;X15;K0
 C;X16;K0
-C;X17;K100
+C;X17;K10
 C;X18;K0
 C;X19;K1
 C;X20;K1
@@ -5610,6 +5869,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adef,Amdf,AIdd"
 C;X25;K1
+C;X27;K0
 C;X1;Y263;K"Def6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5624,7 +5884,7 @@ C;X13;K0
 C;X14;K1
 C;X15;K0
 C;X16;K0
-C;X17;K100
+C;X17;K10
 C;X18;K0
 C;X19;K1
 C;X20;K1
@@ -5632,6 +5892,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adef,Amdf,AIdd,Aegr"
 C;X25;K1
+C;X27;K0
 C;X1;Y264;K"Def7"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5646,7 +5907,7 @@ C;X13;K0
 C;X14;K1
 C;X15;K0
 C;X16;K0
-C;X17;K100
+C;X17;K10
 C;X18;K0
 C;X19;K1
 C;X20;K1
@@ -5654,6 +5915,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adef,Amdf,AIdd,Aegr"
 C;X25;K1
+C;X27;K0
 C;X1;Y265;K"Def8"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5668,7 +5930,7 @@ C;X13;K0
 C;X14;K1
 C;X15;K0
 C;X16;K0
-C;X17;K100
+C;X17;K10
 C;X18;K0
 C;X19;K1
 C;X20;K1
@@ -5676,6 +5938,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adef,Amdf,AIdd,Aegr"
 C;X25;K1
+C;X27;K0
 C;X1;Y266;K"Dev1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5698,6 +5961,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adev,ACdv"
 C;X25;K1
+C;X27;K0
 C;X1;Y267;K"Eat1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5720,6 +5984,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aeat"
 C;X25;K1
+C;X27;K0
 C;X1;Y268;K"Eat2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5742,6 +6007,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aeat"
 C;X25;K1
+C;X27;K0
 C;X1;Y269;K"Eat3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5764,6 +6030,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aeat"
 C;X25;K1
+C;X27;K0
 C;X1;Y270;K"Ens1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5786,6 +6053,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aens,ACen,Aweb,ACwb,AIwb"
 C;X25;K1
+C;X27;K0
 C;X1;Y271;K"Ens2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5808,6 +6076,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aens,ACen,Aweb,ACwb,AIwb"
 C;X25;K1
+C;X27;K0
 C;X1;Y272;K"Ens3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5830,6 +6099,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aens,ACen,Aweb,ACwb,AIwb"
 C;X25;K1
+C;X27;K0
 C;X1;Y273;K"ent1"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -5850,6 +6120,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aent"
 C;X25;K1
+C;X27;K0
 C;X1;Y274;K"Egm1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5872,6 +6143,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aegm"
 C;X25;K1
+C;X27;K0
 C;X1;Y275;K"Egm2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5894,6 +6166,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aegm"
 C;X25;K1
+C;X27;K0
 C;X1;Y276;K"Fae1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5916,6 +6189,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afae,Afa2,ACff"
 C;X25;K1
+C;X27;K0
 C;X1;Y277;K"Fae2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5938,6 +6212,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afae,Afa2,ACff"
 C;X25;K1
+C;X27;K0
 C;X1;Y278;K"Fla1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5958,6 +6233,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afla"
 C;X25;K1
+C;X27;K0
 C;X1;Y279;K"Fla2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -5980,6 +6256,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afla"
 C;X25;K1
+C;X27;K0
 C;X1;Y280;K"Fla3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6002,6 +6279,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afla"
 C;X25;K1
+C;X27;K0
 C;X1;Y281;K"Gld1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6024,6 +6302,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agld"
 C;X25;K1
+C;X27;K0
 C;X1;Y282;K"Gld2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6046,6 +6325,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agld"
 C;X25;K1
+C;X27;K0
 C;X1;Y283;K"Gld3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6068,6 +6348,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agld"
 C;X25;K1
+C;X27;K0
 C;X1;Y284;K"Gyd1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6090,6 +6371,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agyd"
 C;X25;K1
+C;X27;K0
 C;X1;Y285;K"Gyd2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6112,6 +6394,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agyd"
 C;X25;K1
+C;X27;K0
 C;X1;Y286;K"Gyd3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6134,6 +6417,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agyd"
 C;X25;K1
+C;X27;K0
 C;X1;Y287;K"Gydu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -6154,6 +6438,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agyd"
 C;X25;K1
+C;X27;K0
 C;X1;Y288;K"Har1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6176,6 +6461,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ahar,Ahrl,Ahr2,Ahr3"
 C;X25;K1
+C;X27;K0
 C;X1;Y289;K"Har2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6198,6 +6484,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ahar,Ahrl,Ahr2,Ahr3"
 C;X25;K1
+C;X27;K0
 C;X1;Y290;K"Har3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6220,6 +6507,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ahar"
 C;X25;K1
+C;X27;K0
 C;X1;Y291;K"Hea1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6242,6 +6530,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ahea,Anh1,Anh2,Anhe"
 C;X25;K1
+C;X27;K0
 C;X1;Y292;K"Inf1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6264,6 +6553,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ainf,ACif"
 C;X25;K1
+C;X27;K0
 C;X1;Y293;K"Inf2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6286,6 +6576,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ainf,ACif"
 C;X25;K1
+C;X27;K0
 C;X1;Y294;K"Inf3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6308,6 +6599,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ainf,ACif"
 C;X25;K1
+C;X27;K0
 C;X1;Y295;K"Inf4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6330,6 +6622,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ainf,ACif"
 C;X25;K1
+C;X27;K0
 C;X1;Y296;K"Lit1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6352,6 +6645,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Alit"
 C;X25;K1
+C;X27;K0
 C;X1;Y297;K"Lit2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6374,6 +6668,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Alit"
 C;X25;K1
+C;X27;K0
 C;X1;Y298;K"Lsh1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6396,6 +6691,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Alsh,ACls"
 C;X25;K1
+C;X27;K0
 C;X1;Y299;K"Loa1"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -6416,6 +6712,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aloa,Sloa,Slo2,Slo3"
 C;X25;K1
+C;X27;K0
 C;X1;Y300;K"Mbt1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6438,6 +6735,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ambt,Amb2"
 C;X25;K1
+C;X27;K0
 C;X1;Y301;K"Mbt2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6460,6 +6758,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ambt,Amb2"
 C;X25;K1
+C;X27;K0
 C;X1;Y302;K"Mbt3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6482,6 +6781,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ambt,Amb2"
 C;X25;K1
+C;X27;K0
 C;X1;Y303;K"Mbt4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6504,6 +6804,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ambt,Amb2"
 C;X25;K1
+C;X27;K0
 C;X1;Y304;K"Mbt5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6524,6 +6825,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ambt,Amb2"
 C;X25;K1
+C;X27;K0
 C;X1;Y305;K"Mil1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6544,6 +6846,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amil"
 C;X25;K1
+C;X27;K0
 C;X1;Y306;K"Mil2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6564,6 +6867,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amil"
 C;X25;K1
+C;X27;K0
 C;X1;Y307;K"Min1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6586,6 +6890,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amin"
 C;X25;K1
+C;X27;K0
 C;X1;Y308;K"Min2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6608,6 +6913,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amin"
 C;X25;K1
+C;X27;K0
 C;X1;Y309;K"Neu1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6630,6 +6936,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aneu,Ane2,Aall"
 C;X25;K1
+C;X27;K0
 C;X1;Y310;K"Neu2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6650,6 +6957,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aneu,Ane2,Aall"
 C;X25;K1
+C;X27;K0
 C;X1;Y311;K"Neu3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6670,6 +6978,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aneu,Ane2,Aall"
 C;X25;K1
+C;X27;K0
 C;X1;Y312;K"Neu4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6690,6 +6999,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aneu,Ane2,Aall"
 C;X25;K1
+C;X27;K0
 C;X1;Y313;K"Ndt1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6712,6 +7022,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Andt,AAns"
 C;X25;K1
+C;X27;K0
 C;X1;Y314;K"Ndt2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6734,6 +7045,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Andt,AAns"
 C;X25;K1
+C;X27;K0
 C;X1;Y315;K"Ndt3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6754,6 +7066,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Andt"
 C;X25;K1
+C;X27;K0
 C;X1;Y316;K"Ans5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6775,6 +7088,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AAns"
 C;X25;K1
+C;X27;K0
 C;X1;Y317;K"Ans6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6797,6 +7111,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AAns"
 C;X25;K1
+C;X27;K0
 C;X1;Y318;K"Arm1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6819,6 +7134,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANre,Aarm"
 C;X25;K1
+C;X27;K0
 C;X1;Y319;K"Arm2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6841,6 +7157,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANre,Aarm"
 C;X25;K1
+C;X27;K0
 C;X1;Y320;K"Poi1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6863,6 +7180,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Apoi,Apo2,Aven,ACvs,ANpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y321;K"Poi2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6885,6 +7203,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Apoi,Apo2,Aven,ACvs,ANpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y322;K"Poi3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6907,6 +7226,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Apoi,Apo2,Aven,ACvs,ANpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y323;K"Poi4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6927,6 +7247,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Apoi,Apo2,Aven,ACvs,ANpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y324;K"Poa1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6949,6 +7270,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y325;K"Poa2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6971,6 +7293,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y326;K"Poa3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -6993,6 +7316,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y327;K"Poa4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7015,6 +7339,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y328;K"Poa5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7035,6 +7360,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y329;K"Ply1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7057,6 +7383,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aply,ACpy,AOhx,AChx"
 C;X25;K1
+C;X27;K0
 C;X1;Y330;K"Ply2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7077,6 +7404,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aply,ACpy,AOhx,AChx"
 C;X25;K1
+C;X27;K0
 C;X1;Y331;K"Ply3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7097,6 +7425,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aply,ACpy,AOhx,AChx"
 C;X25;K1
+C;X27;K0
 C;X1;Y332;K"Ply4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7117,6 +7446,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aply,ACpy,AOhx,AChx"
 C;X25;K1
+C;X27;K0
 C;X1;Y333;K"Ply5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7137,6 +7467,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aply,ACpy,AOhx,AChx"
 C;X25;K1
+C;X27;K0
 C;X1;Y334;K"Pos1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7159,6 +7490,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Apos,ACps,Aps2"
 C;X25;K1
+C;X27;K0
 C;X1;Y335;K"Pos2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7180,6 +7512,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aps2"
 C;X25;K1
+C;X27;K0
 C;X1;Y336;K"Pos3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7199,6 +7532,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aps2"
 C;X25;K1
+C;X27;K0
 C;X1;Y337;K"Pos4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7218,6 +7552,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aps2"
 C;X25;K1
+C;X27;K0
 C;X1;Y338;K"War1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7240,6 +7575,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awar,ACpv"
 C;X25;K1
+C;X27;K0
 C;X1;Y339;K"War2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7262,6 +7598,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awar,ACpv"
 C;X25;K1
+C;X27;K0
 C;X1;Y340;K"War3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7284,6 +7621,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awar,ACpv"
 C;X25;K1
+C;X27;K0
 C;X1;Y341;K"War4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7306,6 +7644,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awar,ACpv"
 C;X25;K1
+C;X27;K0
 C;X1;Y342;K"Prg1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7328,6 +7667,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aprg,ACpu,AIlp,AIpg"
 C;X25;K1
+C;X27;K0
 C;X1;Y343;K"Prg2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7350,6 +7690,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aprg,ACpu,AIlp,AIpg"
 C;X25;K1
+C;X27;K0
 C;X1;Y344;K"Prg3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7372,6 +7713,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aprg,ACpu,AIlp,AIpg"
 C;X25;K1
+C;X27;K0
 C;X1;Y345;K"Prg4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7394,6 +7736,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aprg,ACpu,AIlp,AIpg"
 C;X25;K1
+C;X27;K0
 C;X1;Y346;K"Prg5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7416,6 +7759,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aprg,ACpu,AIlp,AIpg"
 C;X25;K1
+C;X27;K0
 C;X1;Y347;K"Prg6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7438,6 +7782,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aprg,ACpu,AIlp,AIpg,Apg2"
 C;X25;K1
+C;X27;K0
 C;X1;Y348;K"Rai1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7460,6 +7805,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arai,ACrd,AUcb,AIrd,Avng"
 C;X25;K1
+C;X27;K0
 C;X1;Y349;K"Rai2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7482,6 +7828,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arai,ACrd,AUcb,AIrd,Avng"
 C;X25;K1
+C;X27;K0
 C;X1;Y350;K"Rai3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7502,6 +7849,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arai,ACrd,AUcb,AIrd,Avng"
 C;X25;K1
+C;X27;K0
 C;X1;Y351;K"Rai4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7522,6 +7870,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arai,ACrd,AUcb,AIrd,Avng"
 C;X25;K1
+C;X27;K0
 C;X1;Y352;K"Raiu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -7542,6 +7891,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arai,ACrd,AIrd,Avng"
 C;X25;K1
+C;X27;K0
 C;X1;Y353;K"Ucb5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7564,6 +7914,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUcb,Avng"
 C;X25;K1
+C;X27;K0
 C;X1;Y354;K"Ucb6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7586,6 +7937,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUcb,Avng"
 C;X25;K1
+C;X27;K0
 C;X1;Y355;K"Rej1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7608,6 +7960,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arej,ACrj,ACr2,Arpb,Arpl"
 C;X25;K1
+C;X27;K0
 C;X1;Y356;K"Rej2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7630,6 +7983,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arej,ACrj,ACr2,Arpb,Arpm"
 C;X25;K1
+C;X27;K0
 C;X1;Y357;K"Rej3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7650,6 +8004,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arej,ACrj,ACr2"
 C;X25;K1
+C;X27;K0
 C;X1;Y358;K"Rej4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7670,6 +8025,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arej,ACrj,ACr2"
 C;X25;K1
+C;X27;K0
 C;X1;Y359;K"Rpb3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7692,6 +8048,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arpb,Arpl"
 C;X25;K1
+C;X27;K0
 C;X1;Y360;K"Rpb4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7714,6 +8071,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arpb,Arpm"
 C;X25;K1
+C;X27;K0
 C;X1;Y361;K"Rpb5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7736,6 +8094,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arpb,Arpl,Arpm"
 C;X25;K1
+C;X27;K0
 C;X1;Y362;K"Rpb6"
 C;X2;K"Cast"
 C;X3;K"AbilityData"
@@ -7758,6 +8117,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arpb,Arpl,Arpm"
 C;X25;K1
+C;X27;K0
 C;X1;Y363;K"Rep1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7780,6 +8140,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aren,Ahrp,Arep,Arst"
 C;X25;K1
+C;X27;K0
 C;X1;Y364;K"Rep2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7802,6 +8163,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aren,Ahrp,Arep,Arst"
 C;X25;K1
+C;X27;K0
 C;X1;Y365;K"Rep3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7824,6 +8186,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aren,Ahrp,Arep,Arst"
 C;X25;K1
+C;X27;K0
 C;X1;Y366;K"Rep4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7846,6 +8209,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aren,Ahrp,Arep,Arst"
 C;X25;K1
+C;X27;K0
 C;X1;Y367;K"Rep5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7868,6 +8232,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aren,Ahrp,Arep,Arst"
 C;X25;K1
+C;X27;K0
 C;X1;Y368;K"Rtn1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7890,6 +8255,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Artn,Argd,Argl,Arlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y369;K"Rtn2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7912,6 +8278,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Artn,Argd,Argl,Arlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y370;K"Roa1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7934,6 +8301,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht"
 C;X25;K1
+C;X27;K0
 C;X1;Y371;K"Roa2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7956,6 +8324,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht,ANbr"
 C;X25;K1
+C;X27;K0
 C;X1;Y372;K"Roa3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -7978,6 +8347,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht,ANbr"
 C;X25;K1
+C;X27;K0
 C;X1;Y373;K"Roa4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8000,6 +8370,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht,ANbr,Ahnl"
 C;X25;K1
+C;X27;K0
 C;X1;Y374;K"Roa5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8020,8 +8391,9 @@ C;X19;K1
 C;X20;K1
 C;X21;K1
 C;X22;K1
-C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht,ANbr,Ahnl,Auuf"
+C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht,ANbr,Ahnl"
 C;X25;K1
+C;X27;K0
 C;X1;Y375;K"Roa6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8042,8 +8414,9 @@ C;X19;K1
 C;X20;K1
 C;X21;K1
 C;X22;K1
-C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht,ANbr,Ahnl,Auuf"
+C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht,ANbr,Ahnl"
 C;X25;K1
+C;X27;K0
 C;X1;Y376;K"Roa7"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8064,8 +8437,9 @@ C;X19;K1
 C;X20;K1
 C;X21;K1
 C;X22;K1
-C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht,ANbr,Ahnl,Auuf"
+C;X23;K"Aroa,Ara2,ACro,ACr1,AIrr,ANht,ANbr,Ahnl"
 C;X25;K1
+C;X27;K0
 C;X1;Y377;K"Nbr1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8088,6 +8462,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANbr"
 C;X25;K1
+C;X27;K0
 C;X1;Y378;K"Roo1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8110,6 +8485,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aroo,Aro1,Aro2"
 C;X25;K1
+C;X27;K0
 C;X1;Y379;K"Roo2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8132,6 +8508,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aroo,Aro1,Aro2"
 C;X25;K1
+C;X27;K0
 C;X1;Y380;K"Roo3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8154,6 +8531,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aroo,Aro1,Aro2"
 C;X25;K1
+C;X27;K0
 C;X1;Y381;K"Roo4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8173,6 +8551,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aroo,Aro1,Aro2"
 C;X25;K1
+C;X27;K0
 C;X1;Y382;K"Sal1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8195,6 +8574,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asal,Auns"
 C;X25;K1
+C;X27;K0
 C;X1;Y383;K"Sal2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8217,6 +8597,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asal,Auns"
 C;X25;K1
+C;X27;K0
 C;X1;Y384;K"Esn1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8239,6 +8620,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aesn"
 C;X25;K1
+C;X27;K0
 C;X1;Y385;K"Esn2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8261,6 +8643,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aesn"
 C;X25;K1
+C;X27;K0
 C;X1;Y386;K"Esn3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8283,6 +8666,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aesn"
 C;X25;K1
+C;X27;K0
 C;X1;Y387;K"Esn4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8305,6 +8689,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aesn"
 C;X25;K1
+C;X27;K0
 C;X1;Y388;K"Esn5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8327,6 +8712,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aesn"
 C;X25;K1
+C;X27;K0
 C;X1;Y389;K"Shm1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8349,6 +8735,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ashm,Sshm,Ahid,AIhm"
 C;X25;K1
+C;X27;K0
 C;X1;Y390;K"Shm2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8371,6 +8758,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ashm,Sshm,Ahid,AIhm"
 C;X25;K1
+C;X27;K0
 C;X1;Y391;K"Shm3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8393,6 +8781,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ashm,Sshm,Ahid,AIhm"
 C;X25;K1
+C;X27;K0
 C;X1;Y392;K"Shm4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8415,6 +8804,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ashm,Sshm,AIhm"
 C;X25;K1
+C;X27;K0
 C;X1;Y393;K"Slo1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8437,6 +8827,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aslo,ACsw,AIos,Aasl"
 C;X25;K1
+C;X27;K0
 C;X1;Y394;K"Slo2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8459,6 +8850,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aslo,ACsw,AIos,Aasl"
 C;X25;K1
+C;X27;K0
 C;X1;Y395;K"Slo3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8481,6 +8873,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aslo,ACsw,AIos,Aasl"
 C;X25;K1
+C;X27;K0
 C;X1;Y396;K"Spo1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8503,6 +8896,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspo"
 C;X25;K1
+C;X27;K0
 C;X1;Y397;K"Spo2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8525,6 +8919,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspo"
 C;X25;K1
+C;X27;K0
 C;X1;Y398;K"Spo3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8547,6 +8942,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspo"
 C;X25;K1
+C;X27;K0
 C;X1;Y399;K"Spo4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8567,6 +8963,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspo"
 C;X25;K1
+C;X27;K0
 C;X1;Y400;K"Sod1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8589,6 +8986,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asod,Assp,Aspd,Aspy,Aspt"
 C;X25;K1
+C;X27;K0
 C;X1;Y401;K"Sod2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8609,6 +9007,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asod,Assp,Aspd,Aspy,Aspt"
 C;X25;K1
+C;X27;K0
 C;X1;Y402;K"Spa1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8631,6 +9030,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspa"
 C;X25;K1
+C;X27;K0
 C;X1;Y403;K"Sta1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8653,6 +9053,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asta"
 C;X25;K1
+C;X27;K0
 C;X1;Y404;K"Sta2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8675,6 +9076,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asta"
 C;X25;K1
+C;X27;K0
 C;X1;Y405;K"Sta3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8697,6 +9099,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asta"
 C;X25;K1
+C;X27;K0
 C;X1;Y406;K"Sta4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8719,6 +9122,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asta"
 C;X25;K1
+C;X27;K0
 C;X1;Y407;K"Sta5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8741,6 +9145,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asta"
 C;X25;K1
+C;X27;K0
 C;X1;Y408;K"Stau"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -8761,6 +9166,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asta"
 C;X25;K1
+C;X27;K0
 C;X1;Y409;K"Uhf1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8781,8 +9187,9 @@ C;X19;K1
 C;X20;K1
 C;X21;K1
 C;X22;K1
-C;X23;K"Auhf,Suhf,ACuf,Auuf"
+C;X23;K"Auhf,Suhf,ACuf"
 C;X25;K1
+C;X27;K0
 C;X1;Y410;K"Uhf2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8803,8 +9210,9 @@ C;X19;K1
 C;X20;K1
 C;X21;K1
 C;X22;K1
-C;X23;K"Auhf,Suhf,ACuf,Auuf"
+C;X23;K"Auhf,Suhf,ACuf"
 C;X25;K1
+C;X27;K0
 C;X1;Y411;K"Wha1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8827,6 +9235,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awha,Awh2"
 C;X25;K1
+C;X27;K0
 C;X1;Y412;K"Wha2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8849,6 +9258,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awha,Awh2"
 C;X25;K1
+C;X27;K0
 C;X1;Y413;K"Wha3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8871,6 +9281,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awha,Awh2"
 C;X25;K1
+C;X27;K0
 C;X1;Y414;K"Wrp1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8893,6 +9304,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awrp"
 C;X25;K1
+C;X27;K0
 C;X1;Y415;K"Wrp2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8915,6 +9327,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awrp"
 C;X25;K1
+C;X27;K0
 C;X1;Y416;K"Iagi"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8937,6 +9350,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aamk,AIab,AIa1,AIa3,AIa4,,AIa5,AIa6,AIx5,AIx1,AIx2,AIx3,AIx4,AIs1,AIs3,AIs4,AIs5,AIs6,AIi1,AIi3,AIi4,AIi5,AIi6,AIxm,AIam,AIim,AIsm,AIgm,AItm,AInm"
 C;X25;K1
+C;X27;K0
 C;X1;Y417;K"Iint"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8959,6 +9373,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aamk,AIab,AIa1,AIa3,AIa4,AIa5,AIa6,AIx5,AIx1,AIx2,AIx3,AIx4,AIs1,AIs3,AIs4,AIs5,AIs6,AIi1,AIi3,AIi4,AIi5,AIi6,AIxm,AIam,AIim,AIsm,AIgm,AItm,AInm"
 C;X25;K1
+C;X27;K0
 C;X1;Y418;K"Istr"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -8981,6 +9396,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aamk,AIab,AIa1,AIa3,AIa4,AIa5,AIa6,AIx5,AIx1,AIx2,AIx3,AIx4,AIs1,AIs3,AIs4,AIs5,AIs6,AIi1,AIi3,AIi4,AIi5,AIi6,AIxm,AIam,AIim,AIsm,AIgm,AItm,AInm"
 C;X25;K1
+C;X27;K0
 C;X1;Y419;K"Ihid"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9003,6 +9419,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aamk,AIab,AIa1,AIa3,AIa4,AIa5,AIa6,AIx5,AIx1,AIx2,AIx3,AIx4,AIs1,AIs3,AIs4,AIs5,AIs6,AIi1,AIi3,AIi4,AIi5,AIi6,AIxm,AIam,AIim,AIsm,AIgm,AItm,AInm"
 C;X25;K1
+C;X27;K0
 C;X1;Y420;K"Iatt"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9025,6 +9442,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIat,AIt6,AIt9,AItc,AItf,AItg,AIth,AIti,AItj,AItk,AItl,AItn"
 C;X25;K1
+C;X27;K0
 C;X1;Y421;K"Idef"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9047,6 +9465,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIde,AId1,AId2,AId3,AId4,AId5,AIda,AIdb"
 C;X25;K1
+C;X27;K0
 C;X1;Y422;K"Isn1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9069,6 +9488,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIfd,AIff,AIfr,AIfu,AIfh,AIfs,AIir,AIuw,AIbd,AIut,AIes"
 C;X25;K1
+C;X27;K0
 C;X1;Y423;K"Ist1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9089,6 +9509,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIfd,AIff,AIfr,AIfu,AIfh,AIfs,AIir,AIuw,AIbd,AIut,AIes"
 C;X25;K1
+C;X27;K0
 C;X1;Y424;K"Isn2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9111,6 +9532,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIfd,AIff,AIfr,AIfu,AIfh,AIfs,AIir,AIuw,AIbd,AIut,AIes"
 C;X25;K1
+C;X27;K0
 C;X1;Y425;K"Ist2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9131,6 +9553,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIfd,AIff,AIfr,AIfu,AIfh,AIfs,AIir,AIuw,AIbd,AIut,AIes"
 C;X25;K1
+C;X27;K0
 C;X1;Y426;K"Ixpg"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9153,6 +9576,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIem,AIe2"
 C;X25;K1
+C;X27;K0
 C;X1;Y427;K"Ihpg"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9175,6 +9599,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIhe,AIh1,AIh2,AIh3,AIha,AIhb,AIdg,AIg2"
 C;X25;K1
+C;X27;K0
 C;X1;Y428;K"Impg"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9197,6 +9622,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIm1,AIm2,AImr"
 C;X25;K1
+C;X27;K0
 C;X1;Y429;K"Ihp2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9219,6 +9645,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIda,AIdb"
 C;X25;K1
+C;X27;K0
 C;X1;Y430;K"Imp2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9241,6 +9668,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIda,AIdb"
 C;X25;K1
+C;X27;K0
 C;X1;Y431;K"Ivam"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9263,6 +9691,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIva,SCva"
 C;X25;K1
+C;X27;K0
 C;X1;Y432;K"Idic"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9285,6 +9714,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIcb,AIlb,AIpb"
 C;X25;K1
+C;X27;K0
 C;X1;Y433;K"Iarp"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9307,6 +9737,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIcb"
 C;X25;K1
+C;X27;K0
 C;X1;Y434;K"Idam"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9327,8 +9758,9 @@ C;X19;K1
 C;X20;K1
 C;X21;K1
 C;X22;K1
-C;X23;K"AIdf,AIfb,AIzb,AIob,AIll,AIlb,AIsb,AIpb,AIf2"
+C;X23;K"AIdf,AIfb,AIzb,AIob,AIll,AIlb,AIsb,AIpb"
 C;X25;K1
+C;X27;K0
 C;X1;Y435;K"Iob5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9349,8 +9781,9 @@ C;X19;K1
 C;X20;K1
 C;X21;K1
 C;X22;K1
-C;X23;K"AIdf,AIcb,AIfb,AIzb,AIob,AIll,AIlb,AIsb,AIpb,AIf2"
+C;X23;K"AIdf,AIcb,AIfb,AIzb,AIob,AIll,AIlb,AIsb,AIpb"
 C;X25;K1
+C;X27;K0
 C;X1;Y436;K"Iob2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9373,6 +9806,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdf,AIll,AIsb"
 C;X25;K1
+C;X27;K0
 C;X1;Y437;K"Iob3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9395,6 +9829,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdf,AIll,AIsb"
 C;X25;K1
+C;X27;K0
 C;X1;Y438;K"Iob4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9417,6 +9852,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdf,AIll,AIsb"
 C;X25;K1
+C;X27;K0
 C;X1;Y439;K"Iobu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -9437,6 +9873,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdf,AIll,AIsb"
 C;X25;K1
+C;X27;K0
 C;X1;Y440;K"Ilev"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9459,6 +9896,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y441;K"Ilif"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9481,6 +9919,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIml,AImi,AIlf,AIl1,AIl2,AImh"
 C;X25;K1
+C;X27;K0
 C;X1;Y442;K"Iman"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9503,6 +9942,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AImm,AImb,AIbm"
 C;X25;K1
+C;X27;K0
 C;X1;Y443;K"Igol"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9525,6 +9965,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIgo"
 C;X25;K1
+C;X27;K0
 C;X1;Y444;K"Ilum"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9547,6 +9988,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIlu"
 C;X25;K1
+C;X27;K0
 C;X1;Y445;K"Ifa1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9567,6 +10009,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIfa"
 C;X25;K1
+C;X27;K0
 C;X1;Y446;K"Idel"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9589,6 +10032,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIfa"
 C;X25;K1
+C;X27;K0
 C;X1;Y447;K"Icre"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9611,6 +10055,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIco"
 C;X25;K1
+C;X27;K0
 C;X1;Y448;K"Imvb"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9633,6 +10078,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIms"
 C;X25;K1
+C;X27;K0
 C;X1;Y449;K"Ihpr"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9655,6 +10101,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Arel,Arll"
 C;X25;K1
+C;X27;K0
 C;X1;Y450;K"Isib"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9677,6 +10124,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIsi"
 C;X25;K1
+C;X27;K0
 C;X1;Y451;K"Icfd"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9699,6 +10147,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIcf"
 C;X25;K1
+C;X27;K0
 C;X1;Y452;K"Icfm"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9721,6 +10170,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIcf"
 C;X25;K1
+C;X27;K0
 C;X1;Y453;K"Icfx"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9743,6 +10193,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIcf"
 C;X25;K1
+C;X27;K0
 C;X1;Y454;K"Idet"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9765,6 +10216,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIta"
 C;X25;K1
+C;X27;K0
 C;X1;Y455;K"Idim"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9787,6 +10239,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdi,AIds"
 C;X25;K1
+C;X27;K0
 C;X1;Y456;K"Idid"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9809,6 +10262,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdi,AIds"
 C;X25;K1
+C;X27;K0
 C;X1;Y457;K"Iild"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9831,6 +10285,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIil"
 C;X25;K1
+C;X27;K0
 C;X1;Y458;K"Iilw"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9853,6 +10308,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIil"
 C;X25;K1
+C;X27;K0
 C;X1;Y459;K"Irec"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9875,6 +10331,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrt"
 C;X25;K1
+C;X27;K0
 C;X1;Y460;K"Imrp"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9897,6 +10354,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrm,AIrn"
 C;X25;K1
+C;X27;K0
 C;X1;Y461;K"Ircd"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9919,6 +10377,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrc"
 C;X25;K1
+C;X27;K0
 C;X1;Y462;K"irc2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9941,6 +10400,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrc"
 C;X25;K1
+C;X27;K0
 C;X1;Y463;K"irc3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9963,6 +10423,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrc"
 C;X25;K1
+C;X27;K0
 C;X1;Y464;K"Ihps"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -9985,6 +10446,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIre,AIra"
 C;X25;K1
+C;X27;K0
 C;X1;Y465;K"Imps"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10007,6 +10469,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIre,AIra"
 C;X25;K1
+C;X27;K0
 C;X1;Y466;K"Ispi"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10029,6 +10492,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIsp,AIsa"
 C;X25;K1
+C;X27;K0
 C;X1;Y467;K"Itpm"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10051,6 +10515,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AItp"
 C;X25;K1
+C;X27;K0
 C;X1;Y468;K"Itp2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10071,6 +10536,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AItp,AIrt"
 C;X25;K1
+C;X27;K0
 C;X1;Y469;K"Idps"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10093,6 +10559,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIls"
 C;X25;K1
+C;X27;K0
 C;X1;Y470;K"Cad1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10115,6 +10582,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ACad,AIan"
 C;X25;K1
+C;X27;K0
 C;X1;Y471;K"Cac1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10137,6 +10605,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ACac,AIcd"
 C;X25;K1
+C;X27;K0
 C;X1;Y472;K"Cor1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10159,6 +10628,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acor"
 C;X25;K1
+C;X27;K0
 C;X1;Y473;K"Isx1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10181,6 +10651,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIas,AIsx,AIs2"
 C;X25;K1
+C;X27;K0
 C;X1;Y474;K"Wrs1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10203,6 +10674,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awrs,Ahrs,Awrh,Awrg,AOws"
 C;X25;K1
+C;X27;K0
 C;X1;Y475;K"Wrs2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10225,6 +10697,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awrs,Ahrs,Awrh,Awrg"
 C;X25;K1
+C;X27;K0
 C;X1;Y476;K"Wrs3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10247,6 +10720,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Awrs,Ahrs,Awrh,Awrg"
 C;X25;K1
+C;X27;K0
 C;X1;Y477;K"Ctc1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10269,6 +10743,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ACtc,ACt2"
 C;X25;K1
+C;X27;K0
 C;X1;Y478;K"Ctc2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10291,6 +10766,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ACtc,ACt2"
 C;X25;K1
+C;X27;K0
 C;X1;Y479;K"Ctc3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10313,6 +10789,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ACtc,ACt2"
 C;X25;K1
+C;X27;K0
 C;X1;Y480;K"Ctc4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10335,6 +10812,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ACtc,ACt2"
 C;X25;K1
+C;X27;K0
 C;X1;Y481;K"Ctb1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10357,6 +10835,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ACtb"
 C;X25;K1
+C;X27;K0
 C;X1;Y482;K"Ibl1"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -10379,6 +10858,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIbl,AIbg,AIbt"
 C;X25;K1
+C;X27;K0
 C;X1;Y483;K"Uds1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10401,6 +10881,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUds"
 C;X25;K1
+C;X27;K0
 C;X1;Y484;K"Uds2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10423,6 +10904,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUds"
 C;X25;K1
+C;X27;K0
 C;X1;Y485;K"Ndc1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10443,6 +10925,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdc,SNdc"
 C;X25;K1
+C;X27;K0
 C;X1;Y486;K"Ndc2"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -10463,6 +10946,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdc,SNdc"
 C;X25;K1
+C;X27;K0
 C;X1;Y487;K"Nsl1"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -10483,6 +10967,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsl"
 C;X25;K1
+C;X27;K0
 C;X1;Y488;K"Chl1"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -10503,6 +10988,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Achl"
 C;X25;K1
+C;X27;K0
 C;X1;Y489;K"Det1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10523,6 +11009,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adet,Adt1,Atru,Agyv,Adts,Adtg,Abdt,AIrv,AItb"
 C;X25;K1
+C;X27;K0
 C;X1;Y490;K"Dtn1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10545,6 +11032,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adtn"
 C;X25;K1
+C;X27;K0
 C;X1;Y491;K"Dtn2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10567,6 +11055,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adtn"
 C;X25;K1
+C;X27;K0
 C;X1;Y492;K"Eth1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10587,6 +11076,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aeth"
 C;X25;K1
+C;X27;K0
 C;X1;Y493;K"Eth2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10607,6 +11097,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aeth"
 C;X25;K1
+C;X27;K0
 C;X1;Y494;K"Gho1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10627,6 +11118,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agho,Apiv"
 C;X25;K1
+C;X27;K0
 C;X1;Y495;K"Gho2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10647,6 +11139,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agho"
 C;X25;K1
+C;X27;K0
 C;X1;Y496;K"Gho3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10667,6 +11160,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agho"
 C;X25;K1
+C;X27;K0
 C;X1;Y497;K"Ivs1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10689,6 +11183,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aivs"
 C;X25;K1
+C;X27;K0
 C;X1;Y498;K"Nmr1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10711,6 +11206,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANmr"
 C;X25;K1
+C;X27;K0
 C;X1;Y499;K"Nsp1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10733,6 +11229,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ansp"
 C;X25;K1
+C;X27;K0
 C;X1;Y500;K"Nsp2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10755,6 +11252,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ansp"
 C;X25;K1
+C;X27;K0
 C;X1;Y501;K"Nsp3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10775,6 +11273,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ansp"
 C;X25;K1
+C;X27;K0
 C;X1;Y502;K"Ssk1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10797,6 +11296,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Assk"
 C;X25;K1
+C;X27;K0
 C;X1;Y503;K"Ssk2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10819,6 +11319,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Assk"
 C;X25;K1
+C;X27;K0
 C;X1;Y504;K"Ssk3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10841,6 +11342,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Assk"
 C;X25;K1
+C;X27;K0
 C;X1;Y505;K"Ssk4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10861,6 +11363,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Assk"
 C;X25;K1
+C;X27;K0
 C;X1;Y506;K"Ssk5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10881,6 +11384,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Assk"
 C;X25;K1
+C;X27;K0
 C;X1;Y507;K"Hfs1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10903,6 +11407,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHfs,ACfs,Abof"
 C;X25;K1
+C;X27;K0
 C;X1;Y508;K"Hfs2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10925,6 +11430,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHfs,ACfs,Abof"
 C;X25;K1
+C;X27;K0
 C;X1;Y509;K"Hfs3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10947,6 +11453,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHfs,ACfs,Abof"
 C;X25;K1
+C;X27;K0
 C;X1;Y510;K"Hfs4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10969,6 +11476,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHfs,ACfs,Abof"
 C;X25;K1
+C;X27;K0
 C;X1;Y511;K"Hfs5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -10991,6 +11499,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHfs,ACfs,Abof"
 C;X25;K1
+C;X27;K0
 C;X1;Y512;K"Hfs6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11013,6 +11522,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHfs,ACfs,Abof"
 C;X25;K1
+C;X27;K0
 C;X1;Y513;K"Nms1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11035,6 +11545,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANms,ACmf"
 C;X25;K1
+C;X27;K0
 C;X1;Y514;K"Nms2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11057,6 +11568,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANms,ACmf"
 C;X25;K1
+C;X27;K0
 C;X1;Y515;K"Uim1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11079,6 +11591,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUim,ACmp"
 C;X25;K1
+C;X27;K0
 C;X1;Y516;K"Uim2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11101,6 +11614,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUim,ACmp"
 C;X25;K1
+C;X27;K0
 C;X1;Y517;K"Uim3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11123,6 +11637,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUim,ACmp"
 C;X25;K1
+C;X27;K0
 C;X1;Y518;K"Uim4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11145,6 +11660,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUim,ACmp"
 C;X25;K1
+C;X27;K0
 C;X1;Y519;K"Uim5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11165,6 +11681,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUim,ACmp"
 C;X25;K1
+C;X27;K0
 C;X1;Y520;K"Uim6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11185,6 +11702,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUim,ACmp"
 C;X25;K1
+C;X27;K0
 C;X1;Y521;K"Uls1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11207,6 +11725,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUls"
 C;X25;K1
+C;X27;K0
 C;X1;Y522;K"Uls2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11229,6 +11748,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUls"
 C;X25;K1
+C;X27;K0
 C;X1;Y523;K"Uls3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11251,6 +11771,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUls"
 C;X25;K1
+C;X27;K0
 C;X1;Y524;K"Uls4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11273,6 +11794,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUls"
 C;X25;K1
+C;X27;K0
 C;X1;Y525;K"Uls5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11295,6 +11817,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUls"
 C;X25;K1
+C;X27;K0
 C;X1;Y526;K"Ulsu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -11315,6 +11838,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUls"
 C;X25;K1
+C;X27;K0
 C;X1;Y527;K"Uts1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11337,6 +11861,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUts,ANth"
 C;X25;K1
+C;X27;K0
 C;X1;Y528;K"Uts2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11359,6 +11884,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUts,ANth"
 C;X25;K1
+C;X27;K0
 C;X1;Y529;K"Uts3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11381,6 +11907,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AUts,ANth"
 C;X25;K1
+C;X27;K0
 C;X1;Y530;K"Nba1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11403,6 +11930,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANba,ANbs"
 C;X25;K1
+C;X27;K0
 C;X1;Y531;K"Nba2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11425,6 +11953,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANba,ANbs"
 C;X25;K1
+C;X27;K0
 C;X1;Y532;K"Nba3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11447,6 +11976,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANba,ANbs"
 C;X25;K1
+C;X27;K0
 C;X1;Y533;K"Nbau"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -11467,6 +11997,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANba,ANbs"
 C;X25;K1
+C;X27;K0
 C;X1;Y534;K"Nch1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11489,6 +12020,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANch,ACch,Acmg"
 C;X25;K1
+C;X27;K0
 C;X1;Y535;K"Cmg2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11511,6 +12043,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acmg"
 C;X25;K1
+C;X27;K0
 C;X1;Y536;K"Cmg3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11533,6 +12066,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acmg"
 C;X25;K1
+C;X27;K0
 C;X1;Y537;K"Ndr1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11555,6 +12089,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr,AHdr"
 C;X25;K1
+C;X27;K0
 C;X1;Y538;K"Ndr2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11577,6 +12112,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr,AHdr"
 C;X25;K1
+C;X27;K0
 C;X1;Y539;K"Ndr3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11599,6 +12135,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr,AHdr"
 C;X25;K1
+C;X27;K0
 C;X1;Y540;K"Ndr4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11621,6 +12158,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr,AHdr,ACdr,ACsm"
 C;X25;K1
+C;X27;K0
 C;X1;Y541;K"Ndr5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11643,6 +12181,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr,AHdr,ACdr,ACsm"
 C;X25;K1
+C;X27;K0
 C;X1;Y542;K"Ndr6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11665,6 +12204,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr,AHdr,ACdr,ACsm"
 C;X25;K1
+C;X27;K0
 C;X1;Y543;K"Ndr7"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11687,6 +12227,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr,AHdr,ACdr,ACsm"
 C;X25;K1
+C;X27;K0
 C;X1;Y544;K"Ndr8"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11709,6 +12250,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr,AHdr,ACdr,ACsm"
 C;X25;K1
+C;X27;K0
 C;X1;Y545;K"Ndr9"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11731,6 +12273,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr,AHdr,ACdr,ACsm"
 C;X25;K1
+C;X27;K0
 C;X1;Y546;K"NdrA"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11751,6 +12294,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdr"
 C;X25;K1
+C;X27;K0
 C;X1;Y547;K"Nsi1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11773,6 +12317,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsi,ACsi,ANdh,Aclf,AIse,AIfg"
 C;X25;K1
+C;X27;K0
 C;X1;Y548;K"Nsi2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11795,6 +12340,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsi,ACsi,ANdh,Aclf,AIse,AIfg"
 C;X25;K1
+C;X27;K0
 C;X1;Y549;K"Nsi3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11817,6 +12363,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsi,ACsi,ANdh,Aclf,AIse,AIfg"
 C;X25;K1
+C;X27;K0
 C;X1;Y550;K"Nsi4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11839,6 +12386,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsi,ACsi,ANdh,Aclf,AIse,AIfg"
 C;X25;K1
+C;X27;K0
 C;X1;Y551;K"Ntou"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -11859,6 +12407,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANto"
 C;X25;K1
+C;X27;K0
 C;X1;Y552;K"Tdg1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11881,6 +12430,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atdg"
 C;X25;K1
+C;X27;K0
 C;X1;Y553;K"Tdg2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11903,6 +12453,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atdg"
 C;X25;K1
+C;X27;K0
 C;X1;Y554;K"Tdg3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11925,6 +12476,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atdg"
 C;X25;K1
+C;X27;K0
 C;X1;Y555;K"Tdg4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11947,6 +12499,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atdg"
 C;X25;K1
+C;X27;K0
 C;X1;Y556;K"Tdg5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11969,6 +12522,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atdg"
 C;X25;K1
+C;X27;K0
 C;X1;Y557;K"Tsp1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -11991,6 +12545,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atsp"
 C;X25;K1
+C;X27;K0
 C;X1;Y558;K"Tsp2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12013,6 +12568,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atsp"
 C;X25;K1
+C;X27;K0
 C;X1;Y559;K"Nbf5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12035,6 +12591,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANbf,ACbc,ACbf"
 C;X25;K1
+C;X27;K0
 C;X1;Y560;K"Ebl1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12057,6 +12614,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEbl"
 C;X25;K1
+C;X27;K0
 C;X1;Y561;K"Ebl2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12079,6 +12637,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEbl"
 C;X25;K1
+C;X27;K0
 C;X1;Y562;K"Efk1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12101,6 +12660,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEfk,Aroc"
 C;X25;K1
+C;X27;K0
 C;X1;Y563;K"Efk2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12123,6 +12683,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEfk,Aroc"
 C;X25;K1
+C;X27;K0
 C;X1;Y564;K"Efk3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12145,6 +12706,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEfk,Aroc"
 C;X25;K1
+C;X27;K0
 C;X1;Y565;K"Efk4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12167,6 +12729,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEfk"
 C;X25;K1
+C;X27;K0
 C;X1;Y566;K"Esh1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12189,6 +12752,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsh,ACss"
 C;X25;K1
+C;X27;K0
 C;X1;Y567;K"Esh2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12211,6 +12775,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsh,ACss"
 C;X25;K1
+C;X27;K0
 C;X1;Y568;K"Esh3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12233,6 +12798,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsh,ACss"
 C;X25;K1
+C;X27;K0
 C;X1;Y569;K"Esh4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12255,6 +12821,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsh,ACss"
 C;X25;K1
+C;X27;K0
 C;X1;Y570;K"Esh5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12277,6 +12844,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsh,ACss"
 C;X25;K1
+C;X27;K0
 C;X1;Y571;K"Esv1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12299,6 +12867,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsv"
 C;X25;K1
+C;X27;K0
 C;X1;Y572;K"Esvu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -12319,6 +12888,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AEsv"
 C;X25;K1
+C;X27;K0
 C;X1;Y573;K"abs1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12341,6 +12911,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aabs"
 C;X25;K1
+C;X27;K0
 C;X1;Y574;K"abs2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12363,6 +12934,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aabs"
 C;X25;K1
+C;X27;K0
 C;X1;Y575;K"bsk1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12385,6 +12957,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Absk"
 C;X25;K1
+C;X27;K0
 C;X1;Y576;K"bsk2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12407,6 +12980,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Absk"
 C;X25;K1
+C;X27;K0
 C;X1;Y577;K"bsk3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12429,6 +13003,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Absk"
 C;X25;K1
+C;X27;K0
 C;X1;Y578;K"coau"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -12449,6 +13024,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acoa,Acoh,Aco2,Aco3"
 C;X25;K1
+C;X27;K0
 C;X1;Y579;K"coa1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12469,6 +13045,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acoa,Acoh,Aco2,Aco3"
 C;X25;K1
+C;X27;K0
 C;X1;Y580;K"coa2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12489,6 +13066,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aco2,Aco3"
 C;X25;K1
+C;X27;K0
 C;X1;Y581;K"cyc1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12509,6 +13087,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Acyc,ACcy,SCc1,AIcy"
 C;X25;K1
+C;X27;K0
 C;X1;Y582;K"dcp1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12529,6 +13108,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adec"
 C;X25;K1
+C;X27;K0
 C;X1;Y583;K"dcp2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12549,6 +13129,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Adec"
 C;X25;K1
+C;X27;K0
 C;X1;Y584;K"dvm1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12571,6 +13152,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Advm"
 C;X25;K1
+C;X27;K0
 C;X1;Y585;K"dvm2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12593,6 +13175,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Advm"
 C;X25;K1
+C;X27;K0
 C;X1;Y586;K"dvm3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12615,6 +13198,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Advm"
 C;X25;K1
+C;X27;K0
 C;X1;Y587;K"dvm4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12637,6 +13221,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Advm"
 C;X25;K1
+C;X27;K0
 C;X1;Y588;K"dvm5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12659,6 +13244,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Advm"
 C;X25;K1
+C;X27;K0
 C;X1;Y589;K"dvm6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12681,6 +13267,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Advm,ACde"
 C;X25;K1
+C;X27;K0
 C;X1;Y590;K"exh1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12703,6 +13290,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aexh"
 C;X25;K1
+C;X27;K0
 C;X1;Y591;K"exhu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -12723,6 +13311,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aexh"
 C;X25;K1
+C;X27;K0
 C;X1;Y592;K"fak1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12745,6 +13334,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afak"
 C;X25;K1
+C;X27;K0
 C;X1;Y593;K"fak2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12767,6 +13357,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afak"
 C;X25;K1
+C;X27;K0
 C;X1;Y594;K"fak3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12789,6 +13380,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afak"
 C;X25;K1
+C;X27;K0
 C;X1;Y595;K"fak4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12811,6 +13403,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afak"
 C;X25;K1
+C;X27;K0
 C;X1;Y596;K"fak5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12833,6 +13426,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afak"
 C;X25;K1
+C;X27;K0
 C;X1;Y597;K"hwdu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -12853,6 +13447,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ahwd,AChw,Apts,Aeye,AIhw,AIsw"
 C;X25;K1
+C;X27;K0
 C;X1;Y598;K"inv1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12875,6 +13470,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AInv,Apak,Aiun"
 C;X25;K1
+C;X27;K0
 C;X1;Y599;K"inv2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12895,6 +13491,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AInv,Apak,Aiun"
 C;X25;K1
+C;X27;K0
 C;X1;Y600;K"inv3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12915,6 +13512,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AInv,Apak,Aiun"
 C;X25;K1
+C;X27;K0
 C;X1;Y601;K"inv4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12935,6 +13533,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AInv,Apak,Aiun"
 C;X25;K1
+C;X27;K0
 C;X1;Y602;K"inv5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12955,6 +13554,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AInv,Apak,Aiun"
 C;X25;K1
+C;X27;K0
 C;X1;Y603;K"liq1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12977,6 +13577,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aliq"
 C;X25;K1
+C;X27;K0
 C;X1;Y604;K"liq2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -12999,6 +13600,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aliq"
 C;X25;K1
+C;X27;K0
 C;X1;Y605;K"liq3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13021,6 +13623,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aliq"
 C;X25;K1
+C;X27;K0
 C;X1;Y606;K"liq4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13041,6 +13644,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aliq"
 C;X25;K1
+C;X27;K0
 C;X1;Y607;K"mim1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13063,6 +13667,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amim,AImx,ACmi,ACm2,ACm3"
 C;X25;K1
+C;X27;K0
 C;X1;Y608;K"mfl1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13085,6 +13690,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y609;K"mfl2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13107,6 +13713,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y610;K"mfl3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13129,6 +13736,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y611;K"mfl4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13151,6 +13759,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y612;K"mfl5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13173,6 +13782,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y613;K"mfl6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13195,6 +13805,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amfl"
 C;X25;K1
+C;X27;K0
 C;X1;Y614;K"tpi1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13215,6 +13826,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Stpm,Stpr"
 C;X25;K1
+C;X27;K0
 C;X1;Y615;K"tpi2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13235,6 +13847,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Stpm,Stpr"
 C;X25;K1
+C;X27;K0
 C;X1;Y616;K"spl1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13257,6 +13870,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspl,Aspp"
 C;X25;K1
+C;X27;K0
 C;X1;Y617;K"spl2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13279,6 +13893,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspl"
 C;X25;K1
+C;X27;K0
 C;X1;Y618;K"irl1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13301,6 +13916,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrl,AIpr,AIsl,AIpl,AIp1,AIp2,AIp3,AIp4,AIp5,AIp6"
 C;X25;K1
+C;X27;K0
 C;X1;Y619;K"irl2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13323,6 +13939,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrl,AIpr,AIsl,AIpl,AIp1,AIp2,AIp3,AIp4,AIp5,AIp6"
 C;X25;K1
+C;X27;K0
 C;X1;Y620;K"irl3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13343,6 +13960,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrl,AIpr,AIsl,AIpl,AIp1,AIp2,AIp3,AIp4,AIp5,AIp6"
 C;X25;K1
+C;X27;K0
 C;X1;Y621;K"irl4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13363,6 +13981,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrl,AIpr,AIsl,AIpl,AIp1,AIp2,AIp3,AIp4,AIp5,AIp6"
 C;X25;K1
+C;X27;K0
 C;X1;Y622;K"irl5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13383,6 +14002,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIrl,AIpr,AIsl,AIpl,AIp1,AIp2,AIp3,AIp4,AIp5,AIp6"
 C;X25;K1
+C;X27;K0
 C;X1;Y623;K"idc1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13405,6 +14025,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdc"
 C;X25;K1
+C;X27;K0
 C;X1;Y624;K"idc2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13427,6 +14048,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdc"
 C;X25;K1
+C;X27;K0
 C;X1;Y625;K"idc3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13449,6 +14071,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdc"
 C;X25;K1
+C;X27;K0
 C;X1;Y626;K"imo1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13471,6 +14094,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AImo"
 C;X25;K1
+C;X27;K0
 C;X1;Y627;K"imo2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13493,6 +14117,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AImo"
 C;X25;K1
+C;X27;K0
 C;X1;Y628;K"imo3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13515,6 +14140,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AImo"
 C;X25;K1
+C;X27;K0
 C;X1;Y629;K"imou"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -13535,6 +14161,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AImo"
 C;X25;K1
+C;X27;K0
 C;X1;Y630;K"ict1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13557,6 +14184,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIct"
 C;X25;K1
+C;X27;K0
 C;X1;Y631;K"ict2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13579,6 +14207,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIct"
 C;X25;K1
+C;X27;K0
 C;X1;Y632;K"isr1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13601,6 +14230,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIsr"
 C;X25;K1
+C;X27;K0
 C;X1;Y633;K"isr2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13623,6 +14253,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIsr"
 C;X25;K1
+C;X27;K0
 C;X1;Y634;K"ipv1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13645,6 +14276,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIpv"
 C;X25;K1
+C;X27;K0
 C;X1;Y635;K"ipv2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13667,6 +14299,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIpv"
 C;X25;K1
+C;X27;K0
 C;X1;Y636;K"ipv3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13687,6 +14320,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIpv"
 C;X25;K1
+C;X27;K0
 C;X1;Y637;K"mec1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13709,6 +14343,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amec"
 C;X25;K1
+C;X27;K0
 C;X1;Y638;K"spb1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13729,6 +14364,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspb"
 C;X25;K1
+C;X27;K0
 C;X1;Y639;K"spb2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13749,6 +14385,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspb"
 C;X25;K1
+C;X27;K0
 C;X1;Y640;K"spb3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13771,6 +14408,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspb"
 C;X25;K1
+C;X27;K0
 C;X1;Y641;K"spb4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13793,6 +14431,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspb"
 C;X25;K1
+C;X27;K0
 C;X1;Y642;K"spb5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13814,6 +14453,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aspb"
 C;X25;K1
+C;X27;K0
 C;X1;Y643;K"ast1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13836,6 +14476,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aast"
 C;X25;K1
+C;X27;K0
 C;X1;Y644;K"ast2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13858,6 +14499,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aast"
 C;X25;K1
+C;X27;K0
 C;X1;Y645;K"gra1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13880,6 +14522,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agra"
 C;X25;K1
+C;X27;K0
 C;X1;Y646;K"gra2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13902,6 +14545,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agra"
 C;X25;K1
+C;X27;K0
 C;X1;Y647;K"gra3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13924,6 +14568,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agra"
 C;X25;K1
+C;X27;K0
 C;X1;Y648;K"gra4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13946,6 +14591,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agra"
 C;X25;K1
+C;X27;K0
 C;X1;Y649;K"gra5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -13968,6 +14614,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Agra"
 C;X25;K1
+C;X27;K0
 C;X1;Y650;K"ipmu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -13988,6 +14635,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIpm,ANpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y651;K"Npr1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14008,6 +14656,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANpr"
 C;X25;K1
+C;X27;K0
 C;X1;Y652;K"Nsa1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14028,6 +14677,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsa"
 C;X25;K1
+C;X27;K0
 C;X1;Y653;K"Nsa2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14050,6 +14700,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsa"
 C;X25;K1
+C;X27;K0
 C;X1;Y654;K"Nsa3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14072,6 +14723,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsa"
 C;X25;K1
+C;X27;K0
 C;X1;Y655;K"Nsa4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14094,6 +14746,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsa"
 C;X25;K1
+C;X27;K0
 C;X1;Y656;K"Nsa5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14116,6 +14769,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsa"
 C;X25;K1
+C;X27;K0
 C;X1;Y657;K"Iaa1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14138,6 +14792,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIaa"
 C;X25;K1
+C;X27;K0
 C;X1;Y658;K"Ixs1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14160,6 +14815,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIxs"
 C;X25;K1
+C;X27;K0
 C;X1;Y659;K"Ixs2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14182,6 +14838,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIxs"
 C;X25;K1
+C;X27;K0
 C;X1;Y660;K"Nef1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14202,6 +14859,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANef"
 C;X25;K1
+C;X27;K0
 C;X1;Y661;K"Npa5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14224,6 +14882,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y662;K"Npa6"
 C;X2;K"Cast"
 C;X3;K"AbilityData"
@@ -14246,6 +14905,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANpa"
 C;X25;K1
+C;X27;K0
 C;X1;Y663;K"Igl1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14268,6 +14928,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIgf,AIgu"
 C;X25;K1
+C;X27;K0
 C;X1;Y664;K"Iglu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -14288,6 +14949,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIgf,AIgu"
 C;X25;K1
+C;X27;K0
 C;X1;Y665;K"Nse1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14310,6 +14972,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANse"
 C;X25;K1
+C;X27;K0
 C;X1;Y666;K"Ndo1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14332,6 +14995,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdo"
 C;X25;K1
+C;X27;K0
 C;X1;Y667;K"Ndo2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14354,6 +15018,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdo"
 C;X25;K1
+C;X27;K0
 C;X1;Y668;K"Ndo3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14376,6 +15041,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdo"
 C;X25;K1
+C;X27;K0
 C;X1;Y669;K"Ndo4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14398,6 +15064,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdo"
 C;X25;K1
+C;X27;K0
 C;X1;Y670;K"Ndo5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14420,6 +15087,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdo"
 C;X25;K1
+C;X27;K0
 C;X1;Y671;K"Ndou"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -14440,6 +15108,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANdo"
 C;X25;K1
+C;X27;K0
 C;X1;Y672;K"flk1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14462,6 +15131,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aflk,Afsh"
 C;X25;K1
+C;X27;K0
 C;X1;Y673;K"flk2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14484,6 +15154,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aflk,Afsh"
 C;X25;K1
+C;X27;K0
 C;X1;Y674;K"flk3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14506,6 +15177,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aflk,Afsh"
 C;X25;K1
+C;X27;K0
 C;X1;Y675;K"flk4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14528,6 +15200,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aflk,Afsh"
 C;X25;K1
+C;X27;K0
 C;X1;Y676;K"flk5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14550,6 +15223,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aflk,Afsh"
 C;X25;K1
+C;X27;K0
 C;X1;Y677;K"Hbn1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14572,6 +15246,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbn,Apsh"
 C;X25;K1
+C;X27;K0
 C;X1;Y678;K"Hbn2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14594,6 +15269,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AHbn,Apsh"
 C;X25;K1
+C;X27;K0
 C;X1;Y679;K"fbk1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14616,6 +15292,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afbk"
 C;X25;K1
+C;X27;K0
 C;X1;Y680;K"fbk2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14638,6 +15315,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afbk"
 C;X25;K1
+C;X27;K0
 C;X1;Y681;K"fbk3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14660,6 +15338,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afbk"
 C;X25;K1
+C;X27;K0
 C;X1;Y682;K"fbk4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14682,6 +15361,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afbk"
 C;X25;K1
+C;X27;K0
 C;X1;Y683;K"fbk5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14704,6 +15384,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Afbk,Afbt,Afbb"
 C;X25;K1
+C;X27;K0
 C;X1;Y684;K"nca1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14726,6 +15407,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANca"
 C;X25;K1
+C;X27;K0
 C;X1;Y685;K"pxf1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14748,6 +15430,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Apxf"
 C;X25;K1
+C;X27;K0
 C;X1;Y686;K"pxf2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14770,6 +15453,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Apxf"
 C;X25;K1
+C;X27;K0
 C;X1;Y687;K"mls1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14792,6 +15476,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Amls"
 C;X25;K1
+C;X27;K0
 C;X1;Y688;K"sla1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14814,6 +15499,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asla"
 C;X25;K1
+C;X27;K0
 C;X1;Y689;K"Nst1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14836,6 +15522,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANst"
 C;X25;K1
+C;X27;K0
 C;X1;Y690;K"Nst2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14858,6 +15545,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANst"
 C;X25;K1
+C;X27;K0
 C;X1;Y691;K"Nst3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14880,6 +15568,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANst"
 C;X25;K1
+C;X27;K0
 C;X1;Y692;K"Nst4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14902,6 +15591,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANst"
 C;X25;K1
+C;X27;K0
 C;X1;Y693;K"Nst5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14924,6 +15614,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANst"
 C;X25;K1
+C;X27;K0
 C;X1;Y694;K"sla2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14946,6 +15637,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Asla"
 C;X25;K1
+C;X27;K0
 C;X1;Y695;K"Ncl1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14968,6 +15660,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANcl"
 C;X25;K1
+C;X27;K0
 C;X1;Y696;K"Ncl2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -14988,6 +15681,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANcl"
 C;X25;K1
+C;X27;K0
 C;X1;Y697;K"Ncl3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15008,6 +15702,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANcl"
 C;X25;K1
+C;X27;K0
 C;X1;Y698;K"Ncl4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15030,6 +15725,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANcl"
 C;X25;K1
+C;X27;K0
 C;X1;Y699;K"Ncl5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15050,6 +15746,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANcl"
 C;X25;K1
+C;X27;K0
 C;X1;Y700;K"Ncl6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15071,6 +15768,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANcl"
 C;X25;K1
+C;X27;K0
 C;X1;Y701;K"Nab1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15093,6 +15791,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANab"
 C;X25;K1
+C;X27;K0
 C;X1;Y702;K"Nab2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15115,6 +15814,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANab"
 C;X25;K1
+C;X27;K0
 C;X1;Y703;K"Nab3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15137,6 +15837,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANab"
 C;X25;K1
+C;X27;K0
 C;X1;Y704;K"Nab4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15159,6 +15860,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANab"
 C;X25;K1
+C;X27;K0
 C;X1;Y705;K"Nab5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15181,6 +15883,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANab"
 C;X25;K1
+C;X27;K0
 C;X1;Y706;K"Nab6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15203,6 +15906,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANab"
 C;X25;K1
+C;X27;K0
 C;X1;Y707;K"Nhs6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15225,6 +15929,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANhs"
 C;X25;K1
+C;X27;K0
 C;X1;Y708;K"Ntm1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15247,6 +15952,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANtm,AIts"
 C;X25;K1
+C;X27;K0
 C;X1;Y709;K"Ntm2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15269,6 +15975,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANtm,AIts"
 C;X25;K1
+C;X27;K0
 C;X1;Y710;K"Ntm3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15291,6 +15998,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANtm,AIts"
 C;X25;K1
+C;X27;K0
 C;X1;Y711;K"Ntm4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15313,6 +16021,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANtm,AIts"
 C;X25;K1
+C;X27;K0
 C;X1;Y712;K"Neg1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15335,6 +16044,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANeg"
 C;X25;K1
+C;X27;K0
 C;X1;Y713;K"Neg2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15357,6 +16067,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANeg"
 C;X25;K1
+C;X27;K0
 C;X1;Y714;K"Neg3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15378,6 +16089,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANeg"
 C;X25;K1
+C;X27;K0
 C;X1;Y715;K"Neg4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15399,6 +16111,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANeg"
 C;X25;K1
+C;X27;K0
 C;X1;Y716;K"Neg5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15420,6 +16133,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANeg"
 C;X25;K1
+C;X27;K0
 C;X1;Y717;K"Neg6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15441,6 +16155,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANeg"
 C;X25;K1
+C;X27;K0
 C;X1;Y718;K"Ncs1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15463,6 +16178,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANhs,ANcs,ANc1,ANc2,ANc3"
 C;X25;K1
+C;X27;K0
 C;X1;Y719;K"Ncs2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15485,6 +16201,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANhs,ANcs,ANc1,ANc2,ANc3"
 C;X25;K1
+C;X27;K0
 C;X1;Y720;K"Ncs3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15507,6 +16224,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANhs,ANcs,ANc1,ANc2,ANc3"
 C;X25;K1
+C;X27;K0
 C;X1;Y721;K"Ncs4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15529,6 +16247,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANhs,ANcs,ANc1,ANc2,ANc3"
 C;X25;K1
+C;X27;K0
 C;X1;Y722;K"Ncs5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15551,6 +16270,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANhs,ANcs,ANc1,ANc2,ANc3"
 C;X25;K1
+C;X27;K0
 C;X1;Y723;K"Ncs6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15573,6 +16293,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANcs,ANc1,ANc2,ANc3"
 C;X25;K1
+C;X27;K0
 C;X1;Y724;K"Nsy1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15595,6 +16316,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsy,ANs1,ANs2,ANs3"
 C;X25;K1
+C;X27;K0
 C;X1;Y725;K"Nsy2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15615,6 +16337,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsy,ANs1,ANs2,ANs3"
 C;X25;K1
+C;X27;K0
 C;X1;Y726;K"Nsy3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15637,6 +16360,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsy,ANs1,ANs2,ANs3"
 C;X25;K1
+C;X27;K0
 C;X1;Y727;K"Nsy4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15659,6 +16383,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsy,ANs1,ANs2,ANs3"
 C;X25;K1
+C;X27;K0
 C;X1;Y728;K"Nsy5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15681,6 +16406,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsy,ANs1,ANs2,ANs3"
 C;X25;K1
+C;X27;K0
 C;X1;Y729;K"Nsyu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -15701,6 +16427,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANsy,ANs1,ANs2,ANs3"
 C;X25;K1
+C;X27;K0
 C;X1;Y730;K"Nfy1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15723,6 +16450,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANfy"
 C;X25;K1
+C;X27;K0
 C;X1;Y731;K"Nfy2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15745,6 +16473,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANfy"
 C;X25;K1
+C;X27;K0
 C;X1;Y732;K"Nfyu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -15765,6 +16494,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANfy"
 C;X25;K1
+C;X27;K0
 C;X1;Y733;K"Nde1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15787,6 +16517,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANde,ANd1,ANd2,ANd3"
 C;X25;K1
+C;X27;K0
 C;X1;Y734;K"Nde2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15809,6 +16540,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANde,ANd1,ANd2,ANd3"
 C;X25;K1
+C;X27;K0
 C;X1;Y735;K"Nde3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15831,6 +16563,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANde,ANd1,ANd2,ANd3"
 C;X25;K1
+C;X27;K0
 C;X1;Y736;K"Nde4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15853,6 +16586,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANde,ANd1,ANd2,ANd3"
 C;X25;K1
+C;X27;K0
 C;X1;Y737;K"Nic1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15875,6 +16609,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANic"
 C;X25;K1
+C;X27;K0
 C;X1;Y738;K"Nic2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15897,6 +16632,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANic"
 C;X25;K1
+C;X27;K0
 C;X1;Y739;K"Nic3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15919,6 +16655,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANic"
 C;X25;K1
+C;X27;K0
 C;X1;Y740;K"Nic4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15941,6 +16678,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANic"
 C;X25;K1
+C;X27;K0
 C;X1;Y741;K"Nic5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15963,6 +16701,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANic"
 C;X25;K1
+C;X27;K0
 C;X1;Y742;K"Nic6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -15985,6 +16724,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANic"
 C;X25;K1
+C;X27;K0
 C;X1;Y743;K"Nso1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16007,6 +16747,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANso"
 C;X25;K1
+C;X27;K0
 C;X1;Y744;K"Nso2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16029,6 +16770,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANso"
 C;X25;K1
+C;X27;K0
 C;X1;Y745;K"Nso3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16051,6 +16793,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANso"
 C;X25;K1
+C;X27;K0
 C;X1;Y746;K"Nso4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16073,6 +16816,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANso"
 C;X25;K1
+C;X27;K0
 C;X1;Y747;K"Nso5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16095,6 +16839,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANso"
 C;X25;K1
+C;X27;K0
 C;X1;Y748;K"Nlm2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16117,6 +16862,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y749;K"Nlm3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16139,6 +16885,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y750;K"Nlm4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16161,6 +16908,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y751;K"Nlm5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16183,6 +16931,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y752;K"Nlm6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16205,6 +16954,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANlm"
 C;X25;K1
+C;X27;K0
 C;X1;Y753;K"Nvc1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16227,6 +16977,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANvc"
 C;X25;K1
+C;X27;K0
 C;X1;Y754;K"Nvc2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16249,6 +17000,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANvc"
 C;X25;K1
+C;X27;K0
 C;X1;Y755;K"Nvc3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16271,6 +17023,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANvc"
 C;X25;K1
+C;X27;K0
 C;X1;Y756;K"Nvc4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16293,6 +17046,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANvc"
 C;X25;K1
+C;X27;K0
 C;X1;Y757;K"Nvc5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16315,6 +17069,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANvc"
 C;X25;K1
+C;X27;K0
 C;X1;Y758;K"Nvc6"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16337,6 +17092,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANvc"
 C;X25;K1
+C;X27;K0
 C;X1;Y759;K"Nvcu"
 C;X2;K"UnitID"
 C;X3;K"AbilityData"
@@ -16357,6 +17113,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"ANvc"
 C;X25;K1
+C;X27;K0
 C;X1;Y760;K"Tau1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16379,6 +17136,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atau,ANta"
 C;X25;K1
+C;X27;K0
 C;X1;Y761;K"Tau2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16401,6 +17159,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atau,ANta"
 C;X25;K1
+C;X27;K0
 C;X1;Y762;K"Tau3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16423,6 +17182,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atau,ANta"
 C;X25;K1
+C;X27;K0
 C;X1;Y763;K"Tau4"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16445,6 +17205,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atau,ANta"
 C;X25;K1
+C;X27;K0
 C;X1;Y764;K"Tau5"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16467,6 +17228,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Atau,ANta"
 C;X25;K1
+C;X27;K0
 C;X1;Y765;K"Idg1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16489,6 +17251,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdg,AIg2"
 C;X25;K1
+C;X27;K0
 C;X1;Y766;K"Idg2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16511,6 +17274,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdg,AIg2"
 C;X25;K1
+C;X27;K0
 C;X1;Y767;K"Idg3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16531,6 +17295,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIdg,AIg2"
 C;X25;K1
+C;X27;K0
 C;X1;Y768;K"Uuf1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16553,6 +17318,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Auuf"
 C;X25;K1
+C;X27;K0
 C;X1;Y769;K"Uuf2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16575,6 +17341,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Auuf"
 C;X25;K1
+C;X27;K0
 C;X1;Y770;K"Uuf3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16595,6 +17362,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Auuf"
 C;X25;K1
+C;X27;K0
 C;X1;Y771;K"Hsb1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16617,6 +17385,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ahsb"
 C;X25;K1
+C;X27;K0
 C;X1;Y772;K"Hsb2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16639,6 +17408,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ahsb"
 C;X25;K1
+C;X27;K0
 C;X1;Y773;K"Hsb3"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16659,6 +17429,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Ahsb"
 C;X25;K1
+C;X27;K0
 C;X1;Y774;K"Iofr"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16681,6 +17452,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIf2"
 C;X25;K1
+C;X27;K0
 C;X1;Y775;K"AIvu"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16703,6 +17475,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"AIvu"
 C;X25;K1
+C;X27;K0
 C;X1;Y776;K"Akb2"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16725,6 +17498,7 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aakb"
 C;X25;K1
+C;X27;K0
 C;X1;Y777;K"ausk"
 C;X2;K"UnitSkinID"
 C;X3;K"Profile"
@@ -16744,6 +17518,7 @@ C;X20;K1
 C;X21;K1
 C;X22;K1
 C;X25;K1
+C;X27;K1
 C;X1;Y778;K"Aat1"
 C;X2;K"Data"
 C;X3;K"AbilityData"
@@ -16766,4 +17541,5 @@ C;X21;K1
 C;X22;K1
 C;X23;K"Aatp"
 C;X25;K1
+C;X27;K0
 E

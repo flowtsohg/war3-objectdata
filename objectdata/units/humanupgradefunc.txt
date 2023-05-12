@@ -52,8 +52,8 @@ Requires=hcas
 Art=ReplaceableTextures\CommandButtons\BTNHumanLumberUpgrade1.blp,ReplaceableTextures\CommandButtons\BTNHumanLumberUpgrade2.blp
 Buttonpos=0,0
 Requirescount=2
-Requires=hkee
-Requires1=hcas
+Requires=
+Requires1=hkee
 
 [Rhde]
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp

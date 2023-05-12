@@ -172,7 +172,7 @@ DropItemRange=100
 GiveItemRange=150
 PickupItemRange=150
 PawnItemRange=300
-PawnItemRate=0.50
+PawnItemRate=0.60
 
 // combat related entries
 CallForHelp=600
@@ -215,3 +215,4 @@ ConstructionLifeDrainRate=10.0	// hp per second drained when building constructi
 
 MissDamageReduction=0.5
 ShowHideUnitsInTransport=1
+NeutralBuildingPollPeriod=0.5
