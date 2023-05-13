@@ -92,7 +92,7 @@ Ubertip="Allows this unit to carry items for Heroes. Items cannot be used from t
 [Aliq]
 Name=Liquid Fire
 Tip="Liquid Fire"
-Ubertip="Flings a volatile liquid that causes buildings to take damage over time. Buildings that are currently taking damage from Liquid Fire cannot be repaired, and have their attack rate reduced by <Aliq,DataC1,%>%."
+Ubertip="Flings a volatile liquid that causes buildings to take damage over time. Buildings that are currently taking damage from Liquid Fire have their repair time increased by <Aliq,DataE1,%>%, and have their attack rate reduced by <Aliq,DataC1,%>%."
 
 // Unstable Concoction
 [Auco]

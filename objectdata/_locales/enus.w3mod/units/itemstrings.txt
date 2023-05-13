@@ -961,18 +961,18 @@ Ubertip="Increases the armor of the Hero by 5 when worn."
 Description=Boosts armor by 5.
 
 [rat6]
-Name=Claws of Attack +5
-Tip=Purchase Claws of Attack +5
-Ubertip="Increases the attack damage of the Hero by 5 when worn."
-Description=Boosts attack damage by 5.
+Name=Claws of Attack +4
+Tip=Purchase Claws of Attack +4
+Ubertip="Increases the attack damage of the Hero by 4 when worn."
+Description=Boosts attack damage by 4.
 
 [rat9]
-Name=Claws of Attack +9
+Name=Claws of Attack +8
 Hotkey=C
-Tip=Purchase Claws of Attack +9
-Tip:custom,V0=Purchase Claws of Attack +9
-Ubertip="Increases the attack damage of the Hero by 9 when worn."
-Description=Boosts attack damage by 9.
+Tip=Purchase Claws of Attack +8
+Tip:custom,V0=Purchase Claws of Attack +8
+Ubertip="Increases the attack damage of the Hero by 8 when worn."
+Description=Boosts attack damage by 8.
 
 [ratc]
 Name=Claws of Attack +12

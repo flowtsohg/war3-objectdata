@@ -6743,6 +6743,11 @@ skinType=ability
 Targetart=Abilities\Spells\Undead\PlagueCloud\PlagueCloudCaster.mdl
 Art=ReplaceableTextures\PassiveButtons\PASBTNPlagueCloud.blp
 
+[Aap5]
+skinType=ability
+Targetart=Abilities\Spells\Undead\PlagueCloud\PlagueCloudCaster.mdl
+Art=ReplaceableTextures\PassiveButtons\PASBTNPlagueCloud.blp
+
 [Suhf]
 skinType=
 Art=ReplaceableTextures\CommandButtons\BTNUnholyFrenzy.blp

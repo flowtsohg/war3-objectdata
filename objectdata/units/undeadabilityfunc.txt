@@ -266,6 +266,10 @@ Requires=Rupc
 Buttonpos=1,2
 Requires=Rupc
 
+[Aap5]
+Buttonpos=1,2
+Requires=Rupc
+
 [Bapl]
 Spelldetail=2
 

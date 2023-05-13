@@ -33,6 +33,7 @@ Requires2=etoe
 [Reuv]
 Art=ReplaceableTextures\CommandButtons\BTNUltravision.blp
 Buttonpos=2,0
+Requires=etoa
 
 [Renb]
 Art=ReplaceableTextures\CommandButtons\BTNNaturesBlessing.blp

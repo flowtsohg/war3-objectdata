@@ -454,13 +454,13 @@ Researchhotkey=B
 [AEim]
 Name=Immolation
 Tip=Activate Immolation - [|cffffcc00Level 1|r],Activate Immolation - [|cffffcc00Level 2|r],Activate Immolation - [|cffffcc00Level 3|r]
-Ubertip="Activate Immolation to engulf this unit in flames, causing <AEim,DataA1> damage per second to nearby enemy land units. |nDrains mana until deactivated.","Activate Immolation to engulf this unit in flames, causing <AEim,DataA2> damage per second to nearby enemy land units. |nDrains mana until deactivated.","Activate Immolation to engulf this unit in flames, causing <AEim,DataA3> damage per second to nearby enemy land units. |nDrains mana until deactivated."
+Ubertip="Activate Immolation to engulf this unit in flames, causing <AEim,DataA1> damage per 0.5 second to nearby enemy land units. |nDrains mana until deactivated.","Activate Immolation to engulf this unit in flames, causing <AEim,DataA2> damage per 0.5 second to nearby enemy land units. |nDrains mana until deactivated.","Activate Immolation to engulf this unit in flames, causing <AEim,DataA3> damage per 0.5 second to nearby enemy land units. |nDrains mana until deactivated."
 Unubertip="Deactivate Immolation to stop draining mana."
 Hotkey=L
 Untip=Deactivate Immolation
 Unhotkey=L
 Researchtip="Learn Immolation - [|cffffcc00Level %d|r]"
-Researchubertip="Engulfs the Demon Hunter in flames, causing damage to nearby enemy land units. |nDrains mana until deactivated. |n|n|cffffcc00Level 1|r - <AEim,DataA1> damage per second. |n|cffffcc00Level 2|r - <AEim,DataA2> damage per second. |n|cffffcc00Level 3|r - <AEim,DataA3> damage per second."
+Researchubertip="Engulfs the Demon Hunter in flames, causing damage to nearby enemy land units. |nDrains mana until deactivated. |n|n|cffffcc00Level 1|r - <AEim,DataA1> damage per 0.5 second. |n|cffffcc00Level 2|r - <AEim,DataA2> damage per 0.5 second. |n|cffffcc00Level 3|r - <AEim,DataA3> damage per 0.5 second."
 Researchhotkey=L
 
 [BEim]
