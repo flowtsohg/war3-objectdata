@@ -273,7 +273,7 @@ Missilespeed=900
 Attachmentanimprops=large
 
 [ubon]
-Requires=unp2,usap
+Requires=unp2
 Trains=ufro
 Researches=Rufb
 Buttonpos=1,2

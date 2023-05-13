@@ -61,7 +61,7 @@ Specialart=Objects\Spawnmodels\Human\HCancelDeath\HCancelDeath.mdl
 
 [hbar]
 Trains=hfoo,hrif,hkni
-Researches=Rhde,Rhan,Rhri,Rhsb
+Researches=Rhde,Rhan,Rhri
 Buttonpos=1,0
 BuildingSoundLabel=BuildingConstructionLoop
 LoopingSoundFadeIn=512

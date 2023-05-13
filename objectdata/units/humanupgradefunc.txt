@@ -1,5 +1,5 @@
 [Rhss]
-Requires=hvlt,hkee
+Requires=hvlt,hcas
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=2,1
 
@@ -52,8 +52,8 @@ Requires=hcas
 Art=ReplaceableTextures\CommandButtons\BTNHumanLumberUpgrade1.blp,ReplaceableTextures\CommandButtons\BTNHumanLumberUpgrade2.blp
 Buttonpos=0,0
 Requirescount=2
-Requires=hkee
-Requires1=hcas
+Requires=
+Requires1=hkee
 
 [Rhde]
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp
@@ -62,7 +62,7 @@ Buttonpos=0,2
 [Rhan]
 Art=ReplaceableTextures\CommandButtons\BTNAnimalWarTraining.blp
 Buttonpos=2,2
-Requires=hlum,hcas,hbla
+Requires=hlum,hbla,hcas
 
 [Rhpt]
 Art=ReplaceableTextures\CommandButtons\BTNPriestAdept.blp,ReplaceableTextures\CommandButtons\BTNPriestMaster.blp

@@ -1,6 +1,6 @@
 {
-  "name": "war3-objectdata",
-  "version": "0.2.3",
+  "name": "war3-objectdata-th",
+  "version": "0.2.7",
   "description": "A Warcraft 3 object data helper",
   "main": "dist/cjs/index.js",
   "types": "dist/cjs/index.d.ts",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^16.11.4",
-    "mdx-m3-viewer": "^5.12.0",
+    "mdx-m3-viewer-th": "^5.13.0",
     "ts-node": "^10.4.0",
     "typescript": "4.3.5"
   }

@@ -356,6 +356,12 @@ Tip=Disease Cloud
 Ubertip="Infects nearby enemy living units with Disease Cloud. Disease Cloud deals <Aap4,DataB1> damage per second. |nLasts <Aap4,DataA1> seconds."
 EditorSuffix= (Neutral Hostile no damage)
 
+[Aap5]
+Name=Disease Cloud
+Tip=Disease Cloud
+Ubertip="Infects nearby enemy living units with Disease Cloud. Disease Cloud deals <Aap5,DataB1> damage per second. |nLasts <Aap5,DataA1> seconds."
+EditorSuffix= (Animate Dead)
+
 [Bapl]
 Bufftip=Disease
 Buffubertip="This unit is diseased; it will take damage over time."
@@ -459,7 +465,7 @@ Hotkey=N
 [Aam2]
 Name=Anti-magic Shell
 Tip=Anti-magic Shell
-Ubertip="Creates a barrier that stops <Aam2,DataC1> points of spell damage from affecting a target unit. |nLasts <Aam2,Dur1> seconds."
+Ubertip="Creates a barrier that stops <Aam2,DataC1> points of spell, summon, or magic damage from affecting a target unit. |nLasts <Aam2,Dur1> seconds."
 Hotkey=N
 EditorSuffix= (Magic Resistance)
 
@@ -534,10 +540,10 @@ Researchhotkey=E
 [AUan]
 Name=Animate Dead
 Tip=Animate Dead
-Ubertip="Raises <AUan,DataA1> dead units in an area to fight for the Death Knight for <AUan,Dur1> seconds. Animated units are invulnerable."
+Ubertip="Raises <AUan,DataA1> dead units in an area to fight for the Death Knight for <AUan,Dur1> seconds."
 Hotkey=D
 Researchtip="Learn Animate Dead"
-Researchubertip="Raises <AUan,DataA1> dead units in an area to fight for the Death Knight for <AUan,Dur1> seconds. Animated units are invulnerable."
+Researchubertip="Raises <AUan,DataA1> dead units in an area to fight for the Death Knight for <AUan,Dur1> seconds."
 Researchhotkey=D
 
 [BUan]
@@ -606,7 +612,7 @@ Researchhotkey=F
 Name=Frost Armor
 EditorSuffix= (Autocast)
 Tip=Frost Armor - [|cffffcc00Level 1|r],Frost Armor - [|cffffcc00Level 2|r],Frost Armor - [|cffffcc00Level 3|r]
-Ubertip="Creates a shield of frost around a target friendly unit. The shield adds <AUfu,DataB1> armor and slows melee units that attack it for <AUfu,Dur1> seconds. |nLasts <AUfu,DataA1> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB2> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA2> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB3> armor and slows melee units that attack it for <AUfa,Dur1> seconds. |nLasts <AUfa,DataA3> seconds."
+Ubertip="Creates a shield of frost around a target friendly unit. The shield adds <AUfu,DataB1> armor and slows melee units that attack it for <AUfu,Dur1> seconds. |nLasts <AUfu,DataA1> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB2> armor and slows melee units that attack it for <AUfu,Dur2> seconds. |nLasts <AUfa,DataA2> seconds.","Creates a shield of frost around a target friendly unit. The shield adds <AUfa,DataB3> armor and slows melee units that attack it for <AUfu,Dur3> seconds. |nLasts <AUfa,DataA3> seconds."
 Untip="|cffc3dbffRight-click to activate auto-casting."
 Unubertip="|cffc3dbffRight-click to deactivate auto-casting."
 Hotkey=F
@@ -691,7 +697,7 @@ EditorSuffix= (New, Has Icon)
 [Augf]
 Name=Ghoul Frenzy
 Tip=Ghoul Frenzy
-Ubertip="Increases Ghoul movement speed, and attack rate by <Rugf,base1,%>%."
+Ubertip="Increases Ghoul movement speed, and attack rate by <Rugf,base1,%>%.
 EditorSuffix= (Icon)
 
 //Passive - Ghost (icon only, undead, Agho)

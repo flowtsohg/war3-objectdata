@@ -315,7 +315,7 @@ Order=inferno
 
 [AImv]
 
-[AIbm]
+[AIvm]
 
 [AI2m]
 
@@ -323,6 +323,8 @@ Order=inferno
 [AIas]
 
 [AIsx]
+
+[AIbm]
 
 //improved attack speed
 [AIs2]
