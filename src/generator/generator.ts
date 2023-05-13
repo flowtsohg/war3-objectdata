@@ -138,7 +138,7 @@ function getOEObjectName(object: OEObject) {
   return name;
 }
 
-function generateTSEnum(name: string, objects: OEObjects): string {
+function generateTSEnum(name: string, objects: OEObjects, constant: boolean): string {
   const names: { [key: string]: string } = {};
 
   for (const [id, object] of Object.entries(objects)) {
@@ -160,7 +160,7 @@ function generateTSEnum(name: string, objects: OEObjects): string {
     }
   }
 
-  return `export const enum ${name} {\n${Object.entries(names)
+  return `export ${constant ? "const" : ""} enum ${name} {\n${Object.entries(names)
     .map(([name, id]) => `  ${name} = '${id}',`)
     .sort()
     .join("\n")}\n}`;
@@ -256,6 +256,7 @@ function generateTSContainer(interfaceName: string, enumName: string) {
 interface GeneratedObjects {
   tsContent: string;
   jsonContent: string;
+  constants: string;
 }
 
 function enumForType(type: string): string {
@@ -292,12 +293,13 @@ for (const object of Object.values(OBJECTS)) {
   Object.freeze(object);
 }`,
     interfaces,
-    generateTSEnum(enumName, objects),
+    generateTSEnum(enumName, objects, false),
     generateTSContainer(interfaceName, enumName),
   ].join("\n\n");
   const jsonContent = JSON.stringify(objects, undefined, 2);
+  const constants = generateTSEnum(enumName, objects, true);
 
-  return { tsContent, jsonContent };
+  return { tsContent, jsonContent, constants };
 }
 
 export interface GeneratorInput {
